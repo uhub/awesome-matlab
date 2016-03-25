@@ -118,7 +118,6 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [mne-tools/mne-matlab](https://github.com/mne-tools/mne-matlab) - MNE scripting with Matlab
 * [kendrickkay/knkutils](https://github.com/kendrickkay/knkutils) - MATLAB utility functions written by Kendrick Kay
 * [jschwizer99/plot2svg](https://github.com/jschwizer99/plot2svg) - Save MATLAB plots as svg files
-* [howarth/DeepLearnLab](https://github.com/howarth/DeepLearnLab) - Deep Learning in Matlab
 * [gwtaylor/imCRBM](https://github.com/gwtaylor/imCRBM) - Matlab implementation of Implicit mixtures of Conditional Restricted Boltzmann Machines.
 * [cadieu/twolayer](https://github.com/cadieu/twolayer) - Spatial and Transformational Invariants Matlab Code
 * [apjanke/matlab-bench](https://github.com/apjanke/matlab-bench) - Some utilities for exploring Matlab's behavior
