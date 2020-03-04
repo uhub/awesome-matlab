@@ -2081,3 +2081,4 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [Chaulk/WebcamWhiteboard](https://github.com/Chaulk/WebcamWhiteboard) - Machine Vision Term Project
 * [4DD8A19D69F5324F9D49D17EF78BBBCC/mac_hine_learn_ing](https://github.com/4DD8A19D69F5324F9D49D17EF78BBBCC/mac_hine_learn_ing) - machine_learning
 * [1987hasit/HMM-Action-Recognition](https://github.com/1987hasit/HMM-Action-Recognition) - Action recognition using skeleton information based on HMM model
+* [gramian/emgr](https://github.com/gramian/emgr) - emgr - EMpirical GRamian framework for (nonlinear) input-output systems
