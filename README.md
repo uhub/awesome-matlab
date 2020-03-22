@@ -610,6 +610,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [vperic/mmockito](https://github.com/vperic/mmockito) - mmockito is a MATLAB mock framework based on Java Mockito.
 * [vlblocks/vlblocks](https://github.com/vlblocks/vlblocks) - Blocks - a MATLAB experiment framework
 * [PortfolioEffect/PE-HFT-Matlab](https://github.com/PortfolioEffect/PE-HFT-Matlab) -  MATLAB toolbox for high frequency portfolio analysis, intraday backtesting and optimization
+* [EliteQuant](https://github.com/EliteQuant/EliteQuant_Matlab) -  Unified quantitative backtesting and live trading MATLAB toolbox
 * [OpenWaterAnalytics/epanet-matlab](https://github.com/OpenWaterAnalytics/epanet-matlab) - Matlab wrappers and scripts for various EPANET applications, including MSX
 * [Mensen/ept_TFCE-matlab](https://github.com/Mensen/ept_TFCE-matlab) - Advanced EEG Statistics
 * [ispamm/Lynx-Toolbox](https://github.com/ispamm/Lynx-Toolbox) - Lynx Matlab Toolbox
