@@ -8,20 +8,20 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [altmany/export_fig](https://github.com/altmany/export_fig) - A MATLAB toolbox for exporting publication quality figures
 * [pdollar/toolbox](https://github.com/pdollar/toolbox) - Piotr's Image & Video Matlab Toolbox
 * [HuangCongQing/Algorithms_MathModels](https://github.com/HuangCongQing/Algorithms_MathModels) - 【国赛】【美赛】数学建模相关算法 MATLAB实现（2018年初整理）
-* [andrewssobral/lrslibrary](https://github.com/andrewssobral/lrslibrary) - Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos
 * [trekhleb/machine-learning-octave](https://github.com/trekhleb/machine-learning-octave) - 🤖 MatLab/Octave examples of popular machine learning algorithms with code examples and mathematics being explained
+* [andrewssobral/lrslibrary](https://github.com/andrewssobral/lrslibrary) - Low-Rank and Sparse Tools for Background Modeling and Subtraction in Videos
 * [kyamagu/mexopencv](https://github.com/kyamagu/mexopencv) - Collection and a development kit of matlab mex functions for OpenCV library
 * [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer) - Apply and save color schemes in MATLAB with ease.
 * [martin-danelljan/ECO](https://github.com/martin-danelljan/ECO) - Matlab implementation of the ECO tracker.
 * [piermorel/gramm](https://github.com/piermorel/gramm) - Gramm is a complete data visualization toolbox for Matlab. It provides an easy to use and high-level interface to produce publication-quality plots of complex data with varied statistical visualizations. Gramm is inspired by R's ggplot2 library.
-* [cszn/IRCNN](https://github.com/cszn/IRCNN) - Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab)
 * [petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab) - Robotics Toolbox for MATLAB
+* [cszn/IRCNN](https://github.com/cszn/IRCNN) - Learning Deep CNN Denoiser Prior for Image Restoration (CVPR, 2017) (Matlab)
 * [fieldtrip/fieldtrip](https://github.com/fieldtrip/fieldtrip) - The MATLAB toolbox for MEG, EEG and iEEG analysis
 * [votchallenge/vot-toolkit](https://github.com/votchallenge/vot-toolkit) - Visual Object Tracking (VOT) challenge evaluation toolkit
-* [bayesnet/bnt](https://github.com/bayesnet/bnt) - Bayes Net Toolbox for Matlab
-* [alecjacobson/gptoolbox](https://github.com/alecjacobson/gptoolbox) - Matlab toolbox for Geometry Processing.
-* [posenhuang/deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation) - Deep Recurrent Neural Networks for Source Separation
 * [XgTu/2DASL](https://github.com/XgTu/2DASL) - The code (pytorch for testing & matlab for 3D plot and evaluation) for our project: Joint 3D Face Reconstruction and Dense Face Alignment from A Single Image with 2D-Assisted Self-Supervised Learning （2DASL）
+* [bayesnet/bnt](https://github.com/bayesnet/bnt) - Bayes Net Toolbox for Matlab
+* [posenhuang/deeplearningsourceseparation](https://github.com/posenhuang/deeplearningsourceseparation) - Deep Recurrent Neural Networks for Source Separation
+* [alecjacobson/gptoolbox](https://github.com/alecjacobson/gptoolbox) - Matlab toolbox for Geometry Processing.
 * [benfulcher/hctsa](https://github.com/benfulcher/hctsa) - Highly comparative time-series analysis code repository
 * [cszn/SRMD](https://github.com/cszn/SRMD) - Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (CVPR, 2018) (Matlab)
 * [panditanvita/BTCpredictor](https://github.com/panditanvita/BTCpredictor) - Bitcoin price prediction algorithm using bayesian regression techniques
@@ -32,274 +32,279 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [DrCoffey/DeepSqueak](https://github.com/DrCoffey/DeepSqueak) - DeepSqueak: A Deep Learning Based System for Quantification of Ultrasonic Vocalizations
 * [plotly/plotly-graphing-library-for-matlab](https://github.com/plotly/plotly-graphing-library-for-matlab) - Plotly Graphing Library for MATLAB®
 * [zhzhanp/TCDCN-face-alignment](https://github.com/zhzhanp/TCDCN-face-alignment) - Matlab implementation of facial landmark detection by deep multi-task learning
-* [yalmip/YALMIP](https://github.com/yalmip/YALMIP) - MATLAB toolbox for optimization modeling
 * [rodralez/NaveGo](https://github.com/rodralez/NaveGo) - NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.
-* [kyunghyuncho/deepmat](https://github.com/kyunghyuncho/deepmat) - Matlab Code for Restricted/Deep Boltzmann Machines and Autoencoders
+* [yalmip/YALMIP](https://github.com/yalmip/YALMIP) - MATLAB toolbox for optimization modeling
 * [layumi/Image-Text-Embedding](https://github.com/layumi/Image-Text-Embedding) - Dual-Path Convolutional Image-Text Embedding    https://arxiv.org/abs/1711.05535
 * [anilbas/3DMMasSTN](https://github.com/anilbas/3DMMasSTN) - MatConvNet implementation for incorporating a 3D Morphable Model (3DMM) into a Spatial Transformer Network (STN)
-* [dch33/Quad-Sim](https://github.com/dch33/Quad-Sim) - A package of documentation and software supporting MATLAB/Simulink based dynamic modeling and simulation of quadcopter vehicles for control system design
 * [gpeyre/matlab-toolboxes](https://github.com/gpeyre/matlab-toolboxes) - Contains all my Matlab toolboxes.
+* [kyunghyuncho/deepmat](https://github.com/kyunghyuncho/deepmat) - Matlab Code for Restricted/Deep Boltzmann Machines and Autoencoders
+* [dch33/Quad-Sim](https://github.com/dch33/Quad-Sim) - A package of documentation and software supporting MATLAB/Simulink based dynamic modeling and simulation of quadcopter vehicles for control system design
 * [banterle/HDR_Toolbox](https://github.com/banterle/HDR_Toolbox) - HDR Toolbox for processing High Dynamic Range (HDR) images into MATLAB and Octave
-* [flatironinstitute/CaImAn-MATLAB](https://github.com/flatironinstitute/CaImAn-MATLAB) - Complete Matlab pipeline for large scale calcium imaging data analysis
-* [fangq/jsonlab](https://github.com/fangq/jsonlab) - JSONLab: a native JSON/UBJSON/MassagePack encoder/decoder for MATLAB/Octave
 * [davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier) - MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.
+* [flatironinstitute/CaImAn-MATLAB](https://github.com/flatironinstitute/CaImAn-MATLAB) - Complete Matlab pipeline for large scale calcium imaging data analysis
 * [sergeyk/selective_search_ijcv_with_python](https://github.com/sergeyk/selective_search_ijcv_with_python) - Simple Python script to compute Selective Search proposals in Matlab.
+* [fangq/jsonlab](https://github.com/fangq/jsonlab) - JSONLab: a native JSON/UBJSON/MassagePack encoder/decoder for MATLAB/Octave
 * [ChenJoya/Vehicle_Detection_Recognition](https://github.com/ChenJoya/Vehicle_Detection_Recognition) - This is a Matlab lesson design for vehicle detection and recognition.  Using cifar-10Net to training a RCNN, and finetune AlexNet to classify. Thanks to Cars Dataset:http://ai.stanford.edu/~jkrause/cars/car_dataset.html
 * [filipradenovic/cnnimageretrieval](https://github.com/filipradenovic/cnnimageretrieval) - CNN Image Retrieval in MatConvNet: Training and evaluating CNNs for Image Retrieval in MatConvNet
 * [masumhabib/PlotPub](https://github.com/masumhabib/PlotPub) - Publication quality plot in MATLAB.
-* [huashiyiqike/LSTM-MATLAB](https://github.com/huashiyiqike/LSTM-MATLAB) - LSTM-MATLAB is Long Short-term Memory (LSTM) in MATLAB, which is meant to be succinct, illustrative and for research purpose only. It is accompanied with a paper for reference: Revisit Long Short-Term Memory: An Optimization Perspective, NIPS deep learning workshop, 2014.
+* [sccn/eeglab](https://github.com/sccn/eeglab) - EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD
 * [RANSAC/RANSAC-Toolbox](https://github.com/RANSAC/RANSAC-Toolbox) - A toolbox to experiment with the RANSAC algorithm for Matlab and Octave
 * [MATPOWER/matpower](https://github.com/MATPOWER/matpower) - MATPOWER – steady state power flow simulation and optimization for MATLAB and Octave
-* [sccn/eeglab](https://github.com/sccn/eeglab) - EEGLAB is an open source signal processing environment for electrophysiological signals running on Matlab and developed at the SCCN/UCSD
+* [huashiyiqike/LSTM-MATLAB](https://github.com/huashiyiqike/LSTM-MATLAB) - LSTM-MATLAB is Long Short-term Memory (LSTM) in MATLAB, which is meant to be succinct, illustrative and for research purpose only. It is accompanied with a paper for reference: Revisit Long Short-Term Memory: An Optimization Perspective, NIPS deep learning workshop, 2014.
 * [harishrithish7/Fall-Detection](https://github.com/harishrithish7/Fall-Detection) - Human Fall Detection from CCTV camera feed
-* [karpathy/Random-Forest-Matlab](https://github.com/karpathy/Random-Forest-Matlab) - A Random Forest implementation for MATLAB. Supports arbitrary weak learners that you can define.
+* [MatthewPeterKelly/OptimTraj](https://github.com/MatthewPeterKelly/OptimTraj) - A trajectory optimization library for Matlab
+* [goGPS-Project/goGPS_MATLAB](https://github.com/goGPS-Project/goGPS_MATLAB) - goGPS MATLAB is an advanced GNSS observation processing software.
 * [marianux/ecg-kit](https://github.com/marianux/ecg-kit) - A Matlab toolbox for cardiovascular signal processing
 * [lacerbi/bads](https://github.com/lacerbi/bads) - Bayesian Adaptive Direct Search (BADS) optimization algorithm for model fitting in MATLAB
-* [goGPS-Project/goGPS_MATLAB](https://github.com/goGPS-Project/goGPS_MATLAB) - goGPS MATLAB is an advanced GNSS observation processing software.
-* [MatthewPeterKelly/OptimTraj](https://github.com/MatthewPeterKelly/OptimTraj) - A trajectory optimization library for Matlab
-* [covartech/PRT](https://github.com/covartech/PRT) - Pattern Recognition Toolbox for MATLAB
+* [karpathy/Random-Forest-Matlab](https://github.com/karpathy/Random-Forest-Matlab) - A Random Forest implementation for MATLAB. Supports arbitrary weak learners that you can define.
 * [USNavalResearchLaboratory/TrackerComponentLibrary](https://github.com/USNavalResearchLaboratory/TrackerComponentLibrary) - This is a collection of Matlab functions that are useful in the development of target tracking algorithms.
 * [mtompkins/openAlgo](https://github.com/mtompkins/openAlgo) - :chart: openAlgo is a public repository for various work product relavant to algorithms and the high frequency low latency electronic trading space with a bias toward market microstructure as well as exchange traded futures and options.
 * [mattools/matGeom](https://github.com/mattools/matGeom) - Matlab geometry toolbox for 2D/3D geometric computing
-* [Mayankm96/Stereo-Odometry-SOFT](https://github.com/Mayankm96/Stereo-Odometry-SOFT) - MATLAB Implementation of Visual Odometry using SOFT algorithm
+* [covartech/PRT](https://github.com/covartech/PRT) - Pattern Recognition Toolbox for MATLAB
 * [dingzeyuli/knn-matting](https://github.com/dingzeyuli/knn-matting) - Source Code for  KNN Matting, CVPR 2012 / TPAMI 2013. MATLAB code ready to run. Simple and robust implementation under 40 lines.
+* [Mayankm96/Stereo-Odometry-SOFT](https://github.com/Mayankm96/Stereo-Odometry-SOFT) - MATLAB Implementation of Visual Odometry using SOFT algorithm
 * [cvxr/CVX](https://github.com/cvxr/CVX) - A MATLAB system for disciplined convex programming
 * [ori-mrg/robotcar-dataset-sdk](https://github.com/ori-mrg/robotcar-dataset-sdk) - Software Development Kit for the Oxford Robotcar Dataset
 * [jimmy-ren/vcnn_double-bladed](https://github.com/jimmy-ren/vcnn_double-bladed) - Vectorized implementation of convolutional neural networks (CNN) in Matlab for both visual recognition and image processing.
 * [Aiwiscal/ECG-ML-DL-Algorithm-Matlab](https://github.com/Aiwiscal/ECG-ML-DL-Algorithm-Matlab) - Basic Algorithm For Beginners
-* [singaxiong/SignalGraph](https://github.com/singaxiong/SignalGraph) - Matlab-based deep learning toolkit that supports arbitrary directed acyclic graphs (DAG). Support DNN, LSTM, CNN layers and many signal processing layers. Include recipes/examples of using the tool for various tasks.
+* [OpenOCL/OpenOCL](https://github.com/OpenOCL/OpenOCL) - Open Optimal Control Library for Matlab. Trajectory Optimization and non-linear Model Predictive Control (MPC)  toolbox.
+* [markostam/active-noise-cancellation](https://github.com/markostam/active-noise-cancellation) - Active noise cancellation using various algorithms (FxLMS, FuLMS, NLMS) in Matlab, VST and C
 * [lucklab/erplab](https://github.com/lucklab/erplab) - ERPLAB Toolbox is a free, open-source Matlab package for analyzing ERP data.  It is tightly integrated with EEGLAB Toolbox, extending EEGLAB’s capabilities to provide robust, industrial-strength tools for ERP processing, visualization, and analysis.  A graphical user interface makes it easy for beginners to learn, and Matlab scripting provides enormous power for intermediate and advanced users.
 * [yihui-he/panorama](https://github.com/yihui-he/panorama) - Image alignment and stitching with MATLAB
-* [markostam/active-noise-cancellation](https://github.com/markostam/active-noise-cancellation) - Active noise cancellation using various algorithms (FxLMS, FuLMS, NLMS) in Matlab, VST and C
-* [utiasSTARS/msckf-swf-comparison](https://github.com/utiasSTARS/msckf-swf-comparison) - MATLAB code and data for our CRV 2015 paper
-* [waps101/3DMM_edges](https://github.com/waps101/3DMM_edges) - Matlab implementation of algorithm for fitting 3D Morphable Model to images using edge features
+* [singaxiong/SignalGraph](https://github.com/singaxiong/SignalGraph) - Matlab-based deep learning toolkit that supports arbitrary directed acyclic graphs (DAG). Support DNN, LSTM, CNN layers and many signal processing layers. Include recipes/examples of using the tool for various tasks.
 * [KuangJuiHsu/DeepCO3](https://github.com/KuangJuiHsu/DeepCO3) - [CVPR19] DeepCO3: Deep Instance Co-segmentation by Co-peak Search and Co-saliency (Oral paper)
+* [waps101/3DMM_edges](https://github.com/waps101/3DMM_edges) - Matlab implementation of algorithm for fitting 3D Morphable Model to images using edge features
+* [utiasSTARS/msckf-swf-comparison](https://github.com/utiasSTARS/msckf-swf-comparison) - MATLAB code and data for our CRV 2015 paper
 * [tiepvupsu/DICTOL](https://github.com/tiepvupsu/DICTOL) - DICTOL - A Dictionary Learning Toolbox in Matlab and Python
-* [OpenOCL/OpenOCL](https://github.com/OpenOCL/OpenOCL) - Open Optimal Control Library for Matlab. Trajectory Optimization and non-linear Model Predictive Control (MPC)  toolbox.
+* [hiroyuki-kasai/NMFLibrary](https://github.com/hiroyuki-kasai/NMFLibrary) - MATLAB library for non-negative matrix factorization (NMF): Version 1.8.0
 * [dlaptev/RobustPCA](https://github.com/dlaptev/RobustPCA) - Robust PCA implementation and examples (Matlab)
-* [cvxr/TFOCS](https://github.com/cvxr/TFOCS) - A MATLAB toolbox for building first-order solvers for convex models.
 * [AaronX121/Clustering](https://github.com/AaronX121/Clustering) - Clustering / Subspace Clustering Algorithms on MATLAB
 * [mbrossar/FUSION2018](https://github.com/mbrossar/FUSION2018) - Matlab code used for the paper "Unscented Kalman Filtering on Lie Groups for Fusion of IMU and Monocular Vision"
-* [hiroyuki-kasai/NMFLibrary](https://github.com/hiroyuki-kasai/NMFLibrary) - MATLAB library for non-negative matrix factorization (NMF): Version 1.8.0
+* [cvxr/TFOCS](https://github.com/cvxr/TFOCS) - A MATLAB toolbox for building first-order solvers for convex models.
 * [mtex-toolbox/mtex](https://github.com/mtex-toolbox/mtex) - MTEX is a free Matlab toolbox for quantitative texture analysis. Homepage:
-* [dustinstansbury/medal](https://github.com/dustinstansbury/medal) - Matlab Environment for Deep Architecture Learning
 * [lacerbi/optimviz](https://github.com/lacerbi/optimviz) - Visualize optimization algorithms in MATLAB.
+* [dustinstansbury/medal](https://github.com/dustinstansbury/medal) - Matlab Environment for Deep Architecture Learning
 * [David-Guo/face_recognize](https://github.com/David-Guo/face_recognize) - Matlab PCA 人脸识别
 * [xinychen/academic-drawing](https://github.com/xinychen/academic-drawing) - Providing codes (including Matlab and Python) for visualizing numerical experiment results.
+* [petercorke/machinevision-toolbox-matlab](https://github.com/petercorke/machinevision-toolbox-matlab) - Machine Vision Toolbox for MATLAB
+* [hpatches/hpatches-benchmark](https://github.com/hpatches/hpatches-benchmark) - Python & Matlab code for local feature descriptor evaluation with the HPatches dataset.
+* [cerr/CERR](https://github.com/cerr/CERR) - Matlab based platform for Radiological Research
 * [tntrung/sdm_face_alignment](https://github.com/tntrung/sdm_face_alignment) - The Matlab implementation of Supervised Descent Method (SDM) for Face Alignment.
 * [NicolasBoumal/manopt](https://github.com/NicolasBoumal/manopt) - Manopt, a Matlab toolbox for optimization on manifolds
 * [charlienash/nricp](https://github.com/charlienash/nricp) - Matlab implementation of non-rigid iterative closest point
-* [cerr/CERR](https://github.com/cerr/CERR) - Matlab based platform for Radiological Research
-* [lmthang/nmt.matlab](https://github.com/lmthang/nmt.matlab) - Code to train state-of-the-art Neural Machine Translation systems.
-* [hpatches/hpatches-benchmark](https://github.com/hpatches/hpatches-benchmark) - Python & Matlab code for local feature descriptor evaluation with the HPatches dataset.
-* [petercorke/machinevision-toolbox-matlab](https://github.com/petercorke/machinevision-toolbox-matlab) - Machine Vision Toolbox for MATLAB
 * [sun11/sw-sift](https://github.com/sun11/sw-sift) - Matlab implementation of sift(opensift) algorithm.
-* [jiayuzhou/MALSAR](https://github.com/jiayuzhou/MALSAR) - Multi-task learning via Structural Regularization
+* [lmthang/nmt.matlab](https://github.com/lmthang/nmt.matlab) - Code to train state-of-the-art Neural Machine Translation systems.
 * [faridani/MatlabNLP](https://github.com/faridani/MatlabNLP) - Natural Language Processing tools for MATLAB
-* [13952522076/CollaborativeFiltering](https://github.com/13952522076/CollaborativeFiltering) - matlab, collaborative filtering, MovieLens dataset，The movie recommendation system
 * [hliangzhao/Mathematical-Model-Implementation](https://github.com/hliangzhao/Mathematical-Model-Implementation) - 给出了作者本人参与的数学建模竞赛中所使用的相关算法的MATLAB实现。
-* [CSAILVision/LabelMeToolbox](https://github.com/CSAILVision/LabelMeToolbox) - MATLAB Toolbox for the LabelMe Image Database
+* [13952522076/CollaborativeFiltering](https://github.com/13952522076/CollaborativeFiltering) - matlab, collaborative filtering, MovieLens dataset，The movie recommendation system
 * [TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave) - This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.
-* [ricedsp/rwt](https://github.com/ricedsp/rwt) - The Rice Wavelet Toolbox (RWT) is a collection of Matlab M-files and C MEX-files for 1D and 2D wavelet and filter bank design, analysis, and processing. The toolbox provides tools for denoising and interfaces directly with our Matlab code for wavelet domain hidden Markov models and wavelet regularized deconvolution.
-* [facebookarchive/pose-aligned-deep-networks](https://github.com/facebookarchive/pose-aligned-deep-networks) - Pose Aligned Networks for Deep Attribute Modeling matlab code used for the publication here: http://arxiv.org/abs/1311.5591
+* [jiayuzhou/MALSAR](https://github.com/jiayuzhou/MALSAR) - Multi-task learning via Structural Regularization
+* [mvansegbroeck/vad](https://github.com/mvansegbroeck/vad) - Voice Activity Detection system (Matlab-based implementation)
 * [LabForComputationalVision/matlabPyrTools](https://github.com/LabForComputationalVision/matlabPyrTools) - MatLab tools for multi-scale image processing, including Laplacian pyramids, Wavelets, and Steerable Pyramids
+* [CSAILVision/LabelMeToolbox](https://github.com/CSAILVision/LabelMeToolbox) - MATLAB Toolbox for the LabelMe Image Database
+* [ricedsp/rwt](https://github.com/ricedsp/rwt) - The Rice Wavelet Toolbox (RWT) is a collection of Matlab M-files and C MEX-files for 1D and 2D wavelet and filter bank design, analysis, and processing. The toolbox provides tools for denoising and interfaces directly with our Matlab code for wavelet domain hidden Markov models and wavelet regularized deconvolution.
+* [ktekeli/audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms) - A Library of Audio Steganography & Watermarking Algorithms
+* [facebookarchive/pose-aligned-deep-networks](https://github.com/facebookarchive/pose-aligned-deep-networks) - Pose Aligned Networks for Deep Attribute Modeling matlab code used for the publication here: http://arxiv.org/abs/1311.5591
 * [tminka/lightspeed](https://github.com/tminka/lightspeed) - lightspeed matlab toolbox
 * [SheffieldML/GPmat](https://github.com/SheffieldML/GPmat) - Matlab implementations of Gaussian processes and other machine learning tools.
-* [ktekeli/audio-steganography-algorithms](https://github.com/ktekeli/audio-steganography-algorithms) - A Library of Audio Steganography & Watermarking Algorithms
-* [mvansegbroeck/vad](https://github.com/mvansegbroeck/vad) - Voice Activity Detection system (Matlab-based implementation)
-* [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
 * [simondlevy/SensorFusion](https://github.com/simondlevy/SensorFusion) - A simple Matlab example of sensor fusion using a Kalman filter
-* [jorgengrythe/beamforming](https://github.com/jorgengrythe/beamforming) - Matlab files for various types of beamforming
-* [jaderberg/python-matlab-bridge](https://github.com/jaderberg/python-matlab-bridge) - A simple interface to allow Python to call MATLAB functions.
-* [lmendo/MATL](https://github.com/lmendo/MATL) - A programming language based on MATLAB and suitable for code golfing
-* [fangq/iso2mesh](https://github.com/fangq/iso2mesh) - Iso2Mesh - a 3D surface and volumetric mesh generator for MATLAB/Octave
-* [LyricYang/MIMO_OFDM](https://github.com/LyricYang/MIMO_OFDM) - 《MIMO-OFDM无线通信技术及MATLAB实现》随书源码
-* [imistyrain/MatConvNet-oneclick](https://github.com/imistyrain/MatConvNet-oneclick) - Train your own data with MatConvNet
+* [ishit/L1Stabilizer](https://github.com/ishit/L1Stabilizer) - :movie_camera: Video stabilization using L1-norm optimal camera paths.
 * [GaoBoYu599/Optimization_Algorithm](https://github.com/GaoBoYu599/Optimization_Algorithm) - 梯度下降、牛顿法、共轭梯度法、蒙特卡洛、模拟退火、粒子群、蚁群、全局最优搭配局部最优算法的matlab和python程序
+* [jorgengrythe/beamforming](https://github.com/jorgengrythe/beamforming) - Matlab files for various types of beamforming
+* [ImperialCollegeLondon/sap-voicebox](https://github.com/ImperialCollegeLondon/sap-voicebox) - Speech Processing Toolbox for MATLAB
+* [lacerbi/vbmc](https://github.com/lacerbi/vbmc) - Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
+* [Shuai-Xie/genetic-algorithm](https://github.com/Shuai-Xie/genetic-algorithm) - 遗传算法 - Matlab
+* [LyricYang/MIMO_OFDM](https://github.com/LyricYang/MIMO_OFDM) - 《MIMO-OFDM无线通信技术及MATLAB实现》随书源码
+* [jaderberg/python-matlab-bridge](https://github.com/jaderberg/python-matlab-bridge) - A simple interface to allow Python to call MATLAB functions.
+* [fangq/iso2mesh](https://github.com/fangq/iso2mesh) - Iso2Mesh - a 3D surface and volumetric mesh generator for MATLAB/Octave
+* [lmendo/MATL](https://github.com/lmendo/MATL) - A programming language based on MATLAB and suitable for code golfing
 * [vlfeat/autonn](https://github.com/vlfeat/autonn) - A fast and expressive Matlab/MatConvNet deep learning API, with native automatic differentiation
 * [raacampbell/shadedErrorBar](https://github.com/raacampbell/shadedErrorBar) - Produce elegant shaded error bars in MATLAB
 * [mvallieres/radiomics](https://github.com/mvallieres/radiomics) - MATLAB programming tools for radiomics analysis
-* [FengZhenhua/Wing-Loss](https://github.com/FengZhenhua/Wing-Loss) - A Matlab Implementation for CNN-based Facial Landmark Localisation using Wing Loss
-* [lacerbi/vbmc](https://github.com/lacerbi/vbmc) - Variational Bayesian Monte Carlo (VBMC) algorithm for posterior and model inference in MATLAB
-* [ImperialCollegeLondon/sap-voicebox](https://github.com/ImperialCollegeLondon/sap-voicebox) - Speech Processing Toolbox for MATLAB
-* [XinLiGH/GyroAllan](https://github.com/XinLiGH/GyroAllan) - 陀螺仪随机误差的 Allan 方差分析
+* [imistyrain/MatConvNet-oneclick](https://github.com/imistyrain/MatConvNet-oneclick) - Train your own data with MatConvNet
 * [JorgeGT/PlotRTL1090](https://github.com/JorgeGT/PlotRTL1090) - 3D visualization of air traffic through RTL-SDR (dump1090) and MATLAB
+* [FengZhenhua/Wing-Loss](https://github.com/FengZhenhua/Wing-Loss) - A Matlab Implementation for CNN-based Facial Landmark Localisation using Wing Loss
+* [danaberman/non-local-dehazing](https://github.com/danaberman/non-local-dehazing) - MATLAB implementation of the paper "Non-Local Image Dehazing", CVPR 2016
 * [jdelacroix/simiam](https://github.com/jdelacroix/simiam) - A MATLAB-based educational bridge between theory and practice in robotics.
 * [Eurus-Holmes/Mathematical_Modeling](https://github.com/Eurus-Holmes/Mathematical_Modeling) - :confetti_ball: Mathematical Modeling Algorithms and Applications
-* [danaberman/non-local-dehazing](https://github.com/danaberman/non-local-dehazing) - MATLAB implementation of the paper "Non-Local Image Dehazing", CVPR 2016
-* [benhager/solarized-matlab](https://github.com/benhager/solarized-matlab) - Solarized for MATLAB
+* [XinLiGH/GyroAllan](https://github.com/XinLiGH/GyroAllan) - 陀螺仪随机误差的 Allan 方差分析
 * [dsoellinger/blind_image_quality_toolbox](https://github.com/dsoellinger/blind_image_quality_toolbox) - Collection of Blind Image Quality Metrics in Matlab
-* [Shuai-Xie/genetic-algorithm](https://github.com/Shuai-Xie/genetic-algorithm) - 遗传算法 - Matlab
-* [scatnet/scatnet](https://github.com/scatnet/scatnet) - Scattering Network for Matlab
+* [benhager/solarized-matlab](https://github.com/benhager/solarized-matlab) - Solarized for MATLAB
+* [Pjer-zhang/matlabPlotCheatsheet](https://github.com/Pjer-zhang/matlabPlotCheatsheet) - A cheatsheet for those who plot with MATLAB
 * [epfl-lts2/gspbox](https://github.com/epfl-lts2/gspbox) - Graph Signal Processing in Matlab
-* [nctoolbox/nctoolbox](https://github.com/nctoolbox/nctoolbox) - NCTOOLBOX  A Matlab toolbox for working with common data model datasets
 * [IoSR-Surrey/MatlabToolbox](https://github.com/IoSR-Surrey/MatlabToolbox) - General purpose Matlab toolbox
+* [scatnet/scatnet](https://github.com/scatnet/scatnet) - Scattering Network for Matlab
+* [nctoolbox/nctoolbox](https://github.com/nctoolbox/nctoolbox) - NCTOOLBOX  A Matlab toolbox for working with common data model datasets
 * [yabata/pyrenn](https://github.com/yabata/pyrenn) - A Recurrent Neural Network Toolbox for Python and Matlab
 * [XU-TIANYANG/LADCF](https://github.com/XU-TIANYANG/LADCF) - Matlab implementation of TIP2019 paper "Learning Adaptive Discriminative Correlation Filters via Temporal Consistency Preserving Spatial Feature Selection for Robust Visual Object Tracking"
 * [ShiMengjie/Machine-Learning-Andrew-Ng](https://github.com/ShiMengjie/Machine-Learning-Andrew-Ng) - 机器学习-Coursera-吴恩达- python+Matlab代码实现
 * [bbci/bbci_public](https://github.com/bbci/bbci_public) - MATLAB toolbox for Brain-Computer Interfacing (BCI)
 * [yihui-he/3D-reconstruction](https://github.com/yihui-he/3D-reconstruction) - two view structure from motion
-* [jluttine/matlab](https://github.com/jluttine/matlab) - A collection of MATLAB scripts
-* [geoscience-community-codes/GISMO](https://github.com/geoscience-community-codes/GISMO) - GISMO - a seismic data analysis toolbox for MATLAB
-* [SheffieldML/deepGP](https://github.com/SheffieldML/deepGP) - Deep Gaussian Processes in matlab
-* [jaijuneja/ekf-slam-matlab](https://github.com/jaijuneja/ekf-slam-matlab) - A Simultaneous Localisation and Mapping simulation in MATLAB
 * [canlab/CanlabCore](https://github.com/canlab/CanlabCore) - Core tools required for running Canlab Matlab toolboxes. The heart of this toolbox is object-oriented tools that enable interactive analysis of neuroimaging data and simple scripts using high-level commands tailored to neuroimaging analysis.
-* [kts/matlab-midi](https://github.com/kts/matlab-midi) - Matlab scripts to read and write MIDI files
-* [danipascual/GNSS-matlab](https://github.com/danipascual/GNSS-matlab) - Matlab codes to generate GNSS PRNs, secondary codes, dataless signals and spectra. Includes real data captures and a theory summary. GPS (L1CA, L2C, L5), Gaileo (E1OS, E5), BeiDou-2 (B1I)
-* [Allopart/rbpf-gmapping](https://github.com/Allopart/rbpf-gmapping) - MatLab implementation of a Rao-Blacwellized Particle Filter for Grid- Based FastSlam
-* [yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB) - MATLAB Code for MIMO-OFDM Wireless Communications with MATLAB | MIMO-OFDM无线通信技术及MATLAB实现
-* [XinLi-zn/TADT](https://github.com/XinLi-zn/TADT) - Implementation of the TADT tracker of paper 'Target-Aware Deep Tracking'
+* [jluttine/matlab](https://github.com/jluttine/matlab) - A collection of MATLAB scripts
 * [wme7/Aero-matlab](https://github.com/wme7/Aero-matlab) - My matlab homework files
 * [sjtrny/Dark-Channel-Haze-Removal](https://github.com/sjtrny/Dark-Channel-Haze-Removal) - MATLAB implementation of "Single Image Haze Removal Using Dark Channel Prior"
-* [Qingbao/iris](https://github.com/Qingbao/iris) - Iris Recognition Algorithms Comparison between Daugman algorithm and Hough transform on Matlab
-* [morriswmz/doa-tools](https://github.com/morriswmz/doa-tools) - A set of MATLAB functions for direction-of-arrival (DOA) estimation in array signal processing.
-* [manur/MATLAB-git](https://github.com/manur/MATLAB-git) - A thin MATLAB wrapper for the Git source control system
-* [joncox123/Cortexsys](https://github.com/joncox123/Cortexsys) - Matlab GPU Accelerated Deep Learning Toolbox
-* [SheffieldML/vargplvm](https://github.com/SheffieldML/vargplvm) - Bayesian GPLVM in MATLAB and R
+* [mstorath/Pottslab](https://github.com/mstorath/Pottslab) - Multilabel image segmentation (color/gray/multichannel) based on the Potts  model (aka piecewise constant Mumford-Shah model)
+* [kts/matlab-midi](https://github.com/kts/matlab-midi) - Matlab scripts to read and write MIDI files
+* [geoscience-community-codes/GISMO](https://github.com/geoscience-community-codes/GISMO) - GISMO - a seismic data analysis toolbox for MATLAB
+* [danipascual/GNSS-matlab](https://github.com/danipascual/GNSS-matlab) - Matlab codes to generate GNSS PRNs, secondary codes, dataless signals and spectra. Includes real data captures and a theory summary. GPS (L1CA, L2C, L5), Gaileo (E1OS, E5), BeiDou-2 (B1I)
+* [yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB](https://github.com/yang69/MIMO-OFDM-Wireless-Communications-with-MATLAB) - MATLAB Code for MIMO-OFDM Wireless Communications with MATLAB | MIMO-OFDM无线通信技术及MATLAB实现
+* [SheffieldML/deepGP](https://github.com/SheffieldML/deepGP) - Deep Gaussian Processes in matlab
+* [jaijuneja/ekf-slam-matlab](https://github.com/jaijuneja/ekf-slam-matlab) - A Simultaneous Localisation and Mapping simulation in MATLAB
 * [MrGiovanni/Active-Learning](https://github.com/MrGiovanni/Active-Learning) - Official Matlab demo for AIFT - CVPR 2017
-* [flatironinstitute/NoRMCorre](https://github.com/flatironinstitute/NoRMCorre) - Matlab routines for online non-rigid motion correction of calcium imaging data
+* [morriswmz/doa-tools](https://github.com/morriswmz/doa-tools) - A set of MATLAB functions for direction-of-arrival (DOA) estimation in array signal processing.
 * [csjunxu/TWSC-ECCV2018](https://github.com/csjunxu/TWSC-ECCV2018) -  Matlab Code for "A Trilateral Weighted Sparse Coding Scheme for Real-World Image Denoising, ECCV 2018".
+* [Allopart/rbpf-gmapping](https://github.com/Allopart/rbpf-gmapping) - MatLab implementation of a Rao-Blacwellized Particle Filter for Grid- Based FastSlam
+* [XinLi-zn/TADT](https://github.com/XinLi-zn/TADT) - Implementation of the TADT tracker of paper 'Target-Aware Deep Tracking'
+* [Qingbao/iris](https://github.com/Qingbao/iris) - Iris Recognition Algorithms Comparison between Daugman algorithm and Hough transform on Matlab
+* [manur/MATLAB-git](https://github.com/manur/MATLAB-git) - A thin MATLAB wrapper for the Git source control system
+* [fordanic/image-registration](https://github.com/fordanic/image-registration) - A MATLAB library/toolbox providing access to image registration suitable for use with medical images.
+* [flatironinstitute/NoRMCorre](https://github.com/flatironinstitute/NoRMCorre) - Matlab routines for online non-rigid motion correction of calcium imaging data
 * [xuzhenqi/cnn](https://github.com/xuzhenqi/cnn) - This is a matlab-code implementation of convolutional neural network
+* [joncox123/Cortexsys](https://github.com/joncox123/Cortexsys) - Matlab GPU Accelerated Deep Learning Toolbox
+* [alexandrebarachant/covariancetoolbox](https://github.com/alexandrebarachant/covariancetoolbox) - Covariance toolbox for matlab, including riemannian geometry
+* [stephenbeckr/fastRPCA](https://github.com/stephenbeckr/fastRPCA) - Matlab code for all variants of robust PCA and SPCP
+* [SheffieldML/vargplvm](https://github.com/SheffieldML/vargplvm) - Bayesian GPLVM in MATLAB and R
 * [Modi1987/KST-Kuka-Sunrise-Toolbox](https://github.com/Modi1987/KST-Kuka-Sunrise-Toolbox) - A ToolBox for controlling KUKA iiwa robot from matlab:
 * [michaelchughes/NPBayesHMM](https://github.com/michaelchughes/NPBayesHMM) - Nonparametric Bayesian Inference for Sequential Data.  Includes state-of-the-art MCMC inference for Beta process Hidden Markov Models (BP-HMM). Implemented in Matlab.
 * [johnyf/openstreetmap](https://github.com/johnyf/openstreetmap) - Interface to OpenStreetMap (load maps, extract road connectivity, plot road network & find shortest path)
-* [fordanic/image-registration](https://github.com/fordanic/image-registration) - A MATLAB library/toolbox providing access to image registration suitable for use with medical images.
 * [davidkun/HyperSpectralToolbox](https://github.com/davidkun/HyperSpectralToolbox) - HyperSpectral Matlab Toolbox forked from Sourceforge
-* [alexandrebarachant/covariancetoolbox](https://github.com/alexandrebarachant/covariancetoolbox) - Covariance toolbox for matlab, including riemannian geometry
-* [stephenbeckr/fastRPCA](https://github.com/stephenbeckr/fastRPCA) - Matlab code for all variants of robust PCA and SPCP
+* [chengchengzi/Digital-Image-Processing](https://github.com/chengchengzi/Digital-Image-Processing) - 冈萨雷斯《数字图像处理matlab版》第二版
+* [sfstoolbox/sfs-matlab](https://github.com/sfstoolbox/sfs-matlab) - SFS Toolbox for Matlab/Octave
 * [JacobD10/SoundZone_Tools](https://github.com/JacobD10/SoundZone_Tools) - Signal Processing Tools for MATLAB
+* [bastibe/transplant](https://github.com/bastibe/transplant) - Transplant is an easy way of calling Matlab from Python
+* [suhangpro/epicflow](https://github.com/suhangpro/epicflow) - A Matlab wrapper for EpicFlow
 * [alexanderlerch/ACA-Code](https://github.com/alexanderlerch/ACA-Code) - Matlab scripts accompanying the book "An Introduction to Audio Content Analysis" (www.AudioContentAnlysis.org)
 * [StackOverflowMATLABchat/NeuralNetPlayground](https://github.com/StackOverflowMATLABchat/NeuralNetPlayground) - A MATLAB implementation of the TensorFlow Neural Networks Playground seen on http://playground.tensorflow.org/
-* [sfstoolbox/sfs-matlab](https://github.com/sfstoolbox/sfs-matlab) - SFS Toolbox for Matlab/Octave
-* [chengchengzi/Digital-Image-Processing](https://github.com/chengchengzi/Digital-Image-Processing) - 冈萨雷斯《数字图像处理matlab版》第二版
-* [bastibe/transplant](https://github.com/bastibe/transplant) - Transplant is an easy way of calling Matlab from Python
 * [tomdoel/pulmonarytoolkit](https://github.com/tomdoel/pulmonarytoolkit) - Lung medical image analysis and visualisation software for Matlab.
-* [suhangpro/epicflow](https://github.com/suhangpro/epicflow) - A Matlab wrapper for EpicFlow
 * [robmaunder/polar-3gpp-matlab](https://github.com/robmaunder/polar-3gpp-matlab) - Matlab simulations of the encoder and SCL decoder for the New Radio polar code from 3GPP Release 15
 * [polarch/Spherical-Harmonic-Transform](https://github.com/polarch/Spherical-Harmonic-Transform) - A collection of MATLAB routines for the Spherical Harmonic Transform and related manipulations in the spherical harmonic spectrum.
+* [tavildar/Polar](https://github.com/tavildar/Polar) - C and MATLAB implementation for Polar encoding and decoding
+* [s7ev3n/MPC_Code](https://github.com/s7ev3n/MPC_Code) - Model Predictive Control for autonomous vehicle trajectory tracking control, in Matlab.
 * [kakearney/boundedline-pkg](https://github.com/kakearney/boundedline-pkg) - Plot line(s) with error bounds/confidence intervals/etc. in Matlab
+* [christianwengert/calib_toolbox_addon](https://github.com/christianwengert/calib_toolbox_addon) - Hand-eye calibration addon for the Matlab camera calibration toolbox
 * [steven2358/kafbox](https://github.com/steven2358/kafbox) - A Matlab benchmarking toolbox for kernel adaptive filtering
 * [Sohl-Dickstein/Minimum-Probability-Flow-Learning](https://github.com/Sohl-Dickstein/Minimum-Probability-Flow-Learning) - Matlab code implementing Minimum Probability Flow Learning.
-* [Pjer-zhang/matlabPlotCheatsheet](https://github.com/Pjer-zhang/matlabPlotCheatsheet) - A cheatsheet for those who plot with MATLAB
-* [christianwengert/calib_toolbox_addon](https://github.com/christianwengert/calib_toolbox_addon) - Hand-eye calibration addon for the Matlab camera calibration toolbox
-* [zlpure/Machine-Learning--Coursera](https://github.com/zlpure/Machine-Learning--Coursera) - My Solution to Assignments of Machine-Learning on Coursera
-* [tavildar/Polar](https://github.com/tavildar/Polar) - C and MATLAB implementation for Polar encoding and decoding
-* [StevenJL/tdoa_localization](https://github.com/StevenJL/tdoa_localization) - Time delay of arrival localization algorithm in Matlab
 * [PhDP/mlbop](https://github.com/PhDP/mlbop) - Matlab code for S. Theodoridis' "Machine Learning: A Bayesian and Optimization Perspective" (2015).
 * [MBB-team/VBA-toolbox](https://github.com/MBB-team/VBA-toolbox) - The VBA toolbox
-* [chris-taylor/USElection](https://github.com/chris-taylor/USElection) - MATLAB model to make predictions for the US 2012 election
 * [andrewssobral/mtt](https://github.com/andrewssobral/mtt) - MATLAB Tensor Tools
-* [ayrna/orca](https://github.com/ayrna/orca) - Ordinal Regression and Classification Algorithms
+* [zlpure/Machine-Learning--Coursera](https://github.com/zlpure/Machine-Learning--Coursera) - My Solution to Assignments of Machine-Learning on Coursera
 * [polarch/Spherical-Array-Processing](https://github.com/polarch/Spherical-Array-Processing) - A collection of MATLAB routines for acoustical array processing on spherical harmonic signals, commonly captured with a spherical microphone array.
-* [olzhas/rrt_toolbox](https://github.com/olzhas/rrt_toolbox) - RRT, RRT*, RRT*FN algorithms for MATLAB
+* [chris-taylor/USElection](https://github.com/chris-taylor/USElection) - MATLAB model to make predictions for the US 2012 election
 * [brian-lau/MatlabStan](https://github.com/brian-lau/MatlabStan) - Matlab interface to Stan, a package for Bayesian inference
-* [s7ev3n/MPC_Code](https://github.com/s7ev3n/MPC_Code) - Model Predictive Control for autonomous vehicle trajectory tracking control, in Matlab.
-* [jacobeisenstein/DPMM](https://github.com/jacobeisenstein/DPMM) - Dirichlet process mixture model code in Matlab. Sampling and variational.
-* [ikarosilva/wfdb-app-toolbox](https://github.com/ikarosilva/wfdb-app-toolbox) - The WFDB Toolbox for MATLAB/Octave is a collection of functions for reading, writing, and processing physiologic signals in the formats used by PhysioNet (see README  for details).
+* [ayrna/orca](https://github.com/ayrna/orca) - Ordinal Regression and Classification Algorithms
+* [StevenJL/tdoa_localization](https://github.com/StevenJL/tdoa_localization) - Time delay of arrival localization algorithm in Matlab
 * [pglira/Point_cloud_tools_for_Matlab](https://github.com/pglira/Point_cloud_tools_for_Matlab) - Various point cloud tools for Matlab
+* [olzhas/rrt_toolbox](https://github.com/olzhas/rrt_toolbox) - RRT, RRT*, RRT*FN algorithms for MATLAB
+* [andrewssobral/mctc4bmi](https://github.com/andrewssobral/mctc4bmi) - Matrix and Tensor Completion for Background Model Initialization
 * [mattools/matImage](https://github.com/mattools/matImage) - Image Processing library for Matlab
 * [LazyFalcon/D_star_PathPlanning](https://github.com/LazyFalcon/D_star_PathPlanning) - Simple Matlab implementation of D*Lite, Focussed D*, A*, for dynamic path planning for mobile robots
-* [dengwirda/mesh2d](https://github.com/dengwirda/mesh2d) - MESH2D is a MATLAB-based Delaunay mesh generator for two-dimensional geometries.
-* [andrewssobral/mctc4bmi](https://github.com/andrewssobral/mctc4bmi) - Matrix and Tensor Completion for Background Model Initialization
-* [QuantumLiu/matDL](https://github.com/QuantumLiu/matDL) - A lightweight MATLAB deeplearning toolbox,based on gpuArray.
+* [jacobeisenstein/DPMM](https://github.com/jacobeisenstein/DPMM) - Dirichlet process mixture model code in Matlab. Sampling and variational.
+* [ikarosilva/wfdb-app-toolbox](https://github.com/ikarosilva/wfdb-app-toolbox) - The WFDB Toolbox for MATLAB/Octave is a collection of functions for reading, writing, and processing physiologic signals in the formats used by PhysioNet (see README  for details).
+* [horverno/sze-academic-robotics-projects](https://github.com/horverno/sze-academic-robotics-projects) - Various robotics related projects in various programming languages (MATLAB, LabVIEW, C#) and techniques (V-REP, ROS, LEGO Mindstorms, Kinect, Neobotix).
+* [gibbonCode/GIBBON](https://github.com/gibbonCode/GIBBON) - The Geometry and Image-Based Bioengineering add-On for MATLAB
+* [decouples/Matlab_deep_learning](https://github.com/decouples/Matlab_deep_learning) - 《Matlab计算机视觉与深度学习实战》代码
 * [JianboTang/RNN_MATLAB](https://github.com/JianboTang/RNN_MATLAB) - this is a  matlab toolbox of deep learning about sequences learning, object-oriented,including rnn, lstm and encoder decoder(sequences to sequences) etc.GPU version is available
 * [isaacgerg/matlabHyperspectralToolbox](https://github.com/isaacgerg/matlabHyperspectralToolbox) - initial cut
-* [horverno/sze-academic-robotics-projects](https://github.com/horverno/sze-academic-robotics-projects) - Various robotics related projects in various programming languages (MATLAB, LabVIEW, C#) and techniques (V-REP, ROS, LEGO Mindstorms, Kinect, Neobotix).
 * [graytowne/caser](https://github.com/graytowne/caser) - A Matlab implementation of Convolutional Sequence Embedding Recommendation Model (Caser)
-* [gibbonCode/GIBBON](https://github.com/gibbonCode/GIBBON) - The Geometry and Image-Based Bioengineering add-On for MATLAB
-* [diehl/Incremental-SVM-Learning-in-MATLAB](https://github.com/diehl/Incremental-SVM-Learning-in-MATLAB) - This MATLAB package implements the methods for exact incremental/decremental SVM learning, regularization parameter perturbation and kernel parameter perturbation presented in "SVM Incremental Learning, Adaptation, and Optimization" by Christopher Diehl and Gert Cauwenberghs.
 * [cortex-lab/allenCCF](https://github.com/cortex-lab/allenCCF) - Tools to work with Allen Inst CCF data in matlab
+* [rafavzqz/geopdes](https://github.com/rafavzqz/geopdes) - GeoPDEs: Isogeometric Analysis in Octave and Matlab, for research and teaching purposes.
 * [lzane/VRP-using-SA-with-Matlab](https://github.com/lzane/VRP-using-SA-with-Matlab) - Vehicle Routing Problem (VRP) using Simulated Annealing (SA) with Matlab  /  模拟退火
+* [diehl/Incremental-SVM-Learning-in-MATLAB](https://github.com/diehl/Incremental-SVM-Learning-in-MATLAB) - This MATLAB package implements the methods for exact incremental/decremental SVM learning, regularization parameter perturbation and kernel parameter perturbation presented in "SVM Incremental Learning, Adaptation, and Optimization" by Christopher Diehl and Gert Cauwenberghs.
+* [dengwirda/mesh2d](https://github.com/dengwirda/mesh2d) - MESH2D is a MATLAB-based Delaunay mesh generator for two-dimensional geometries.
+* [sqlp/sdpt3](https://github.com/sqlp/sdpt3) - SDPT3: MATLAB/Octave software for semidefinite-quadratic-linear programming
+* [QuantumLiu/matDL](https://github.com/QuantumLiu/matDL) - A lightweight MATLAB deeplearning toolbox,based on gpuArray.
+* [quandl/Matlab](https://github.com/quandl/Matlab) - Quandl's Matlab module
+* [hangxyz/License-Plate-Recognition-by-MATLAB](https://github.com/hangxyz/License-Plate-Recognition-by-MATLAB) - 基于MATLAB的车牌识别系统
+* [garethjns/Kaggle-EEG](https://github.com/garethjns/Kaggle-EEG) - 3rd place Kaggle/Uni Melbourne seizure prediction
 * [DrosteEffect/BrewerMap](https://github.com/DrosteEffect/BrewerMap) - [MATLAB] The complete palette of ColorBrewer colormaps. Simple selection by scheme name and map length.
 * [davisvideochallenge/davis-matlab](https://github.com/davisvideochallenge/davis-matlab) - A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation
 * [zoharby/plot_google_map](https://github.com/zoharby/plot_google_map) - MATLAB function for plotting a Google map on the background of a figure
-* [sqlp/sdpt3](https://github.com/sqlp/sdpt3) - SDPT3: MATLAB/Octave software for semidefinite-quadratic-linear programming
-* [rishirdua/machine-learning-matlab](https://github.com/rishirdua/machine-learning-matlab) - Matlab implementation of Machine Learning algorithms
-* [rafavzqz/geopdes](https://github.com/rafavzqz/geopdes) - GeoPDEs: Isogeometric Analysis in Octave and Matlab, for research and teaching purposes.
-* [quandl/Matlab](https://github.com/quandl/Matlab) - Quandl's Matlab module
 * [probml/pmtkdata](https://github.com/probml/pmtkdata) - A collection of MATLAB data sets used by PMTK.
 * [johnyf/fig2u3d](https://github.com/johnyf/fig2u3d) - Export MATLAB figure as U3D file or directly to 3D interactive PDF
-* [hangxyz/License-Plate-Recognition-by-MATLAB](https://github.com/hangxyz/License-Plate-Recognition-by-MATLAB) - 基于MATLAB的车牌识别系统
-* [decouples/Matlab_deep_learning](https://github.com/decouples/Matlab_deep_learning) - 《Matlab计算机视觉与深度学习实战》代码
+* [horchler/SDETools](https://github.com/horchler/SDETools) - Matlab Toolbox for the Numerical Solution of Stochastic Differential Equations
 * [CoSMoMVPA/CoSMoMVPA](https://github.com/CoSMoMVPA/CoSMoMVPA) - A lightweight multivariate pattern analysis (MVPA) toolbox in Matlab / Octave
 * [awerries/kalman-localization](https://github.com/awerries/kalman-localization) - MATLAB implementation of localization using sensor fusion of GPS/INS through an error-state Kalman filter.
-* [analogdevicesinc/MathWorks_tools](https://github.com/analogdevicesinc/MathWorks_tools) - Scripts and tools created by ADI to be used with MATLAB and Simulink with ADI products
-* [philbooks/Kalman-Filter-for-Beginners](https://github.com/philbooks/Kalman-Filter-for-Beginners) - Sample code in MATLAB/Octave for "Kalman Filter for Beginners"
-* [horchler/SDETools](https://github.com/horchler/SDETools) - Matlab Toolbox for the Numerical Solution of Stochastic Differential Equations
-* [hiroyuki-kasai/ClassifierToolbox](https://github.com/hiroyuki-kasai/ClassifierToolbox) - A MATLAB toolbox for classifier: Version 1.0.7
 * [adnanmunawar/matlab-rrt-variants](https://github.com/adnanmunawar/matlab-rrt-variants) - RRT*, RRT-connect, lazy RRT and RRT extend have been implemented for 2d and 3d c-spaces with visualization
+* [symao/minimum_snap_trajectory_generation](https://github.com/symao/minimum_snap_trajectory_generation) - easy sample code for minimum snap trajectory planning  in MATLAB
+* [rishirdua/machine-learning-matlab](https://github.com/rishirdua/machine-learning-matlab) - Matlab implementation of Machine Learning algorithms
+* [philbooks/Kalman-Filter-for-Beginners](https://github.com/philbooks/Kalman-Filter-for-Beginners) - Sample code in MATLAB/Octave for "Kalman Filter for Beginners"
 * [mobeets/mpm](https://github.com/mobeets/mpm) - Simple Matlab package management inspired by pip
-* [MIT-SPARK/GlobalOptimizationTutorial](https://github.com/MIT-SPARK/GlobalOptimizationTutorial) - Hands-on Tutorial for Global Optimization in Matlab
-* [KirillLykov/cvision-algorithms](https://github.com/KirillLykov/cvision-algorithms) - Collection of Computer Vision algorithms implemented in Matlab
 * [jonathanlilly/jLab](https://github.com/jonathanlilly/jLab) - A Matlab toolbox for big data analysis, signal processing, mapping, and oceanographic applications.
-* [graphviz4matlab/graphviz4matlab](https://github.com/graphviz4matlab/graphviz4matlab) - Matlab interface to Graphviz graph layout package. Allows interactive editing of the resulting graphs.
-* [garethjns/Kaggle-EEG](https://github.com/garethjns/Kaggle-EEG) - 3rd place Kaggle/Uni Melbourne seizure prediction
-* [danmcduff/iphys-toolbox](https://github.com/danmcduff/iphys-toolbox) - A MATLAB toolbox for iPPG analysis.  The toolbox includes implementations of commonly used methods.
+* [hiroyuki-kasai/ClassifierToolbox](https://github.com/hiroyuki-kasai/ClassifierToolbox) - A MATLAB toolbox for classifier: Version 1.0.7
+* [grinsted/wavelet-coherence](https://github.com/grinsted/wavelet-coherence) - A cross wavelet and wavelet coherence toolbox for MATLAB
+* [bastibe/Violinplot-Matlab](https://github.com/bastibe/Violinplot-Matlab) - Violin Plots for Matlab
 * [avenix/WDK](https://github.com/avenix/WDK) - The Wearables Development Toolkit - a development environment for activity recognition applications with sensor signals
-* [textmate/matlab.tmbundle](https://github.com/textmate/matlab.tmbundle) - TextMate support for Matlab / Octave
+* [analogdevicesinc/MathWorks_tools](https://github.com/analogdevicesinc/MathWorks_tools) - Scripts and tools created by ADI to be used with MATLAB and Simulink with ADI products
+* [MIT-SPARK/GlobalOptimizationTutorial](https://github.com/MIT-SPARK/GlobalOptimizationTutorial) - Hands-on Tutorial for Global Optimization in Matlab
 * [Mericam/exposure-fusion](https://github.com/Mericam/exposure-fusion) - Exposure Fusion in Matlab
+* [KirillLykov/cvision-algorithms](https://github.com/KirillLykov/cvision-algorithms) - Collection of Computer Vision algorithms implemented in Matlab
+* [graphviz4matlab/graphviz4matlab](https://github.com/graphviz4matlab/graphviz4matlab) - Matlab interface to Graphviz graph layout package. Allows interactive editing of the resulting graphs.
+* [danmcduff/iphys-toolbox](https://github.com/danmcduff/iphys-toolbox) - A MATLAB toolbox for iPPG analysis.  The toolbox includes implementations of commonly used methods.
+* [cdebacco/SpringRank](https://github.com/cdebacco/SpringRank) - Calculates SpringRank from directed networks or pairwise comparisons
+* [ZacharyTaylor/Camera-to-Arm-Calibration](https://github.com/ZacharyTaylor/Camera-to-Arm-Calibration) - Matlab toolbox for finding the transformation from a camera to a robotic arms base
+* [WaterlooRobotics/mobilerobotics](https://github.com/WaterlooRobotics/mobilerobotics) - Matlab and Robot code for MTE 544: Autonomous Mobile Robotics at the University of Waterloo
+* [textmate/matlab.tmbundle](https://github.com/textmate/matlab.tmbundle) - TextMate support for Matlab / Octave
 * [justdark/matlab_code-ufldl-exercise-](https://github.com/justdark/matlab_code-ufldl-exercise-) - My UFLDL EXERCISE CODE
 * [daniilidis-group/event_feature_tracking](https://github.com/daniilidis-group/event_feature_tracking) - This repo contains MATLAB implementations of the event-based feature tracking methods described in "Event-based Feature Tracking with Probabilistic Data Association" and "Event-based Visual Inertial Odometry".
-* [cdebacco/SpringRank](https://github.com/cdebacco/SpringRank) - Calculates SpringRank from directed networks or pairwise comparisons
 * [andreas-bulling/ActRecTut](https://github.com/andreas-bulling/ActRecTut) - MATLAB Human Activity Recognition Toolbox
 * [vlfeat/vlbenchmarks](https://github.com/vlfeat/vlbenchmarks) - VLBenchmark is a MATLAB suite of benchmarks for computer vision features
 * [ubcmatlabguide/ubcmatlabguide.github.io](https://github.com/ubcmatlabguide/ubcmatlabguide.github.io) - YAGTOM: Yet Another Guide TO Matlab
+* [stabix/stabix](https://github.com/stabix/stabix) - Slip transfer analysis toolbox and GUIs (Matlab)
 * [slayton/matlab-xkcdify](https://github.com/slayton/matlab-xkcdify) - XKCDIFY! Adding flair to boring Matlab Axes one plot at a time
 * [ronw/matlab_htk](https://github.com/ronw/matlab_htk) - MATLAB functions that interface with the HTK Speech Recognition Toolkit (http://htk.eng.cam.ac.uk/) for training HMMs, GMMs and simple speech recognizers.
-* [grinsted/wavelet-coherence](https://github.com/grinsted/wavelet-coherence) - A cross wavelet and wavelet coherence toolbox for MATLAB
-* [avisingh599/vo-howard08](https://github.com/avisingh599/vo-howard08) - [Reimplementation Howard 2008] A MATLAB implementation of Visual Odometry using Andrew Howard's 2008 paper.
-* [ZacharyTaylor/Camera-to-Arm-Calibration](https://github.com/ZacharyTaylor/Camera-to-Arm-Calibration) - Matlab toolbox for finding the transformation from a camera to a robotic arms base
-* [symao/minimum_snap_trajectory_generation](https://github.com/symao/minimum_snap_trajectory_generation) - easy sample code for minimum snap trajectory planning  in MATLAB
-* [stephenbeckr/SparsifiedKMeans](https://github.com/stephenbeckr/SparsifiedKMeans) - KMeans for big data using preconditioning and sparsification, Matlab implementation
-* [stabix/stabix](https://github.com/stabix/stabix) - Slip transfer analysis toolbox and GUIs (Matlab)
-* [kirk86/ImageRetrieval](https://github.com/kirk86/ImageRetrieval) - Content Based Image Retrieval Techniques (e.g. knn, svm using MatLab GUI)
+* [ngageoint/MATLAB_SAR](https://github.com/ngageoint/MATLAB_SAR) - A basic MATLAB library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.
 * [ebrevdo/synchrosqueezing](https://github.com/ebrevdo/synchrosqueezing) - The MATLAB Synchrosqueezing Toolbox
 * [CyC2018/ECG-Classifier](https://github.com/CyC2018/ECG-Classifier) - :chart_with_downwards_trend: Matlab implementation of ECG classifier
+* [stephenbeckr/SparsifiedKMeans](https://github.com/stephenbeckr/SparsifiedKMeans) - KMeans for big data using preconditioning and sparsification, Matlab implementation
+* [simulkade/FVTool](https://github.com/simulkade/FVTool) - Finite volume toolbox for Matlab/Octave
+* [kirk86/ImageRetrieval](https://github.com/kirk86/ImageRetrieval) - Content Based Image Retrieval Techniques (e.g. knn, svm using MatLab GUI)
 * [Conclusio/matlab-epsclean](https://github.com/Conclusio/matlab-epsclean) - Clean/Repair .eps PostScript vector files created by Matlab R2016b
-* [WaterlooRobotics/mobilerobotics](https://github.com/WaterlooRobotics/mobilerobotics) - Matlab and Robot code for MTE 544: Autonomous Mobile Robotics at the University of Waterloo
+* [avisingh599/vo-howard08](https://github.com/avisingh599/vo-howard08) - [Reimplementation Howard 2008] A MATLAB implementation of Visual Odometry using Andrew Howard's 2008 paper.
+* [avehtari/BDA_m_demos](https://github.com/avehtari/BDA_m_demos) - Bayesian Data Analysis demos for Matlab/Octave
+* [thomaskuestner/CS_MoCo_LAB](https://github.com/thomaskuestner/CS_MoCo_LAB) - Compressed Sensing and Motion Correction LAB: An MR acquisition and reconstruction system
+* [qiuqiangkong/matlab-hmm](https://github.com/qiuqiangkong/matlab-hmm) - Open source HMM toolbox, with Discrete-HMM, Gaussian-HMM, GMM-HMM.  (matlab)
 * [psexton/matlab-xunit](https://github.com/psexton/matlab-xunit) - xUnit for Matlab with JUnit-compatible XML output
-* [ngageoint/MATLAB_SAR](https://github.com/ngageoint/MATLAB_SAR) - A basic MATLAB library to demonstrate reading, writing, display, and simple processing of complex SAR data using the NGA SICD standard.
+* [nickabattista/IB2d](https://github.com/nickabattista/IB2d) - An easy to use immersed boundary method in 2D, with full implementations in MATLAB and Python that contains over 60 built-in examples, including multiple options for fiber-structure models and advection-diffusion, Boussinesq approximations, and/or artificial forcing.
 * [MultiDIC/MultiDIC](https://github.com/MultiDIC/MultiDIC) - Matlab 3D Digital Image Correlation Toolbox
 * [johannesgerer/jburkardt-m](https://github.com/johannesgerer/jburkardt-m) - An official Git Mirror of John Burkardt's great collection of MATLAB Software
-* [bastibe/Violinplot-Matlab](https://github.com/bastibe/Violinplot-Matlab) - Violin Plots for Matlab
-* [avehtari/BDA_m_demos](https://github.com/avehtari/BDA_m_demos) - Bayesian Data Analysis demos for Matlab/Octave
-* [simulkade/FVTool](https://github.com/simulkade/FVTool) - Finite volume toolbox for Matlab/Octave
-* [qiuqiangkong/matlab-hmm](https://github.com/qiuqiangkong/matlab-hmm) - Open source HMM toolbox, with Discrete-HMM, Gaussian-HMM, GMM-HMM.  (matlab)
-* [nickabattista/IB2d](https://github.com/nickabattista/IB2d) - An easy to use immersed boundary method in 2D, with full implementations in MATLAB and Python that contains over 60 built-in examples, including multiple options for fiber-structure models and advection-diffusion, Boussinesq approximations, and/or artificial forcing.
+* [jmmanley/VGG-Multiple-View-Geometry](https://github.com/jmmanley/VGG-Multiple-View-Geometry) - A set of MATLAB utilities for multiple view geometry, provided alongside Hartley & Zisserman's "Multiple View Geometry in Computer Vision, Second Edition" (2004). Obtained from http://www.robots.ox.ac.uk/~vgg/hzbook/code/.
 * [jmiseikis/RobotNavigation](https://github.com/jmiseikis/RobotNavigation) - MATLAB implementation of two popular navigation algorithms: A-star and Real-Time Randomized Path Planning
 * [GenLouvain/GenLouvain](https://github.com/GenLouvain/GenLouvain) - A generalized Louvain method for community detection implemented in MATLAB
-* [fangfufu/Matlab-Data-Video-Converter](https://github.com/fangfufu/Matlab-Data-Video-Converter) - Convert arbitrary binary files into a video.
 * [wsshin/maxwellfdfd](https://github.com/wsshin/maxwellfdfd) - MATLAB-based solver package of Maxwell's equations by the FDFD method.
+* [spm/spm12](https://github.com/spm/spm12) - SPM12
+* [fangfufu/Matlab-Data-Video-Converter](https://github.com/fangfufu/Matlab-Data-Video-Converter) - Convert arbitrary binary files into a video.
+* [d-kitamura/ILRMA](https://github.com/d-kitamura/ILRMA) - MATLAB script of Independent Low-Rank Matrix Analysis (ILRMA)
+* [chrisconlon/blp-demand](https://github.com/chrisconlon/blp-demand) - estimate BLP demand model in Matlab using state-of-the-art techniques
+* [Apress/matlab-machine-learning](https://github.com/Apress/matlab-machine-learning) - Source Code for 'MATLAB Machine Learning' by Michael Paluszek and Stephanie Thomas
+* [amoudgl/mosse-tracker](https://github.com/amoudgl/mosse-tracker) - Implementation of MOSSE tracker in MATLAB: Visual Object Tracking using Adaptive Correlation Filters (CVPR 2010)
+* [vitorsr/SIHR](https://github.com/vitorsr/SIHR) - Ongoing effort of implementing fast/non-data-aided single image highlight removal methods in MATLAB/GNU Octave
+* [urbste/MLPnP_matlab_toolbox](https://github.com/urbste/MLPnP_matlab_toolbox) - The toolbox is a collection of PnP methods for Matlab. It can be used to benchmark algorithms.
+* [ravenxrz/Mathematical-Modeling](https://github.com/ravenxrz/Mathematical-Modeling) - 数学建模算法学习
+* [OpenWaterAnalytics/EPANET-Matlab-Toolkit](https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit) - A Matlab class for EPANET water distribution simulation libraries
 * [nik1106/MNA-MAT](https://github.com/nik1106/MNA-MAT) - An easy-to-use MATLAB tool for SPICE netlist simulation
 * [MOxUnit/MOxUnit](https://github.com/MOxUnit/MOxUnit) - An xUnit framework for Matlab and GNU Octave
 * [kimjingu/nonnegfac-matlab](https://github.com/kimjingu/nonnegfac-matlab) - Matlab implementations of fast algorithms for nonnegative matrix and tensor factorizations
 * [justinblaber/ncorr_2D_matlab](https://github.com/justinblaber/ncorr_2D_matlab) - 2D Digital Image Correlation Matlab Software
-* [jmmanley/VGG-Multiple-View-Geometry](https://github.com/jmmanley/VGG-Multiple-View-Geometry) - A set of MATLAB utilities for multiple view geometry, provided alongside Hartley & Zisserman's "Multiple View Geometry in Computer Vision, Second Edition" (2004). Obtained from http://www.robots.ox.ac.uk/~vgg/hzbook/code/.
 * [ikuwow/PatchMatch](https://github.com/ikuwow/PatchMatch) - The PatchMatch algorithm on MATLAB
-* [chrisconlon/blp-demand](https://github.com/chrisconlon/blp-demand) - estimate BLP demand model in Matlab using state-of-the-art techniques
-* [Apress/matlab-machine-learning](https://github.com/Apress/matlab-machine-learning) - Source Code for 'MATLAB Machine Learning' by Michael Paluszek and Stephanie Thomas
-* [amoudgl/mosse-tracker](https://github.com/amoudgl/mosse-tracker) - Implementation of MOSSE tracker in MATLAB: Visual Object Tracking using Adaptive Correlation Filters (CVPR 2010)
+* [CHLNDDEV/OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D) - A fast two-dimensional triangular mesh generator written in pure MATLAB (no toolboxes required) designed specifically for coastal models that solve shallow-water equations.
+* [caomw/matlab-forensics](https://github.com/caomw/matlab-forensics) - MATLAB implementations of popular Image Forensic algorithms
 * [akanazawa/catdeform](https://github.com/akanazawa/catdeform) - A Matlab implementation for the paper: "Learning 3D Deformation of Animals from 2D Images" http://www.umiacs.umd.edu/~kanazawa/papers/cat_eg2016.pdf
-* [urbste/MLPnP_matlab_toolbox](https://github.com/urbste/MLPnP_matlab_toolbox) - The toolbox is a collection of PnP methods for Matlab. It can be used to benchmark algorithms.
-* [thomaskuestner/CS_MoCo_LAB](https://github.com/thomaskuestner/CS_MoCo_LAB) - Compressed Sensing and Motion Correction LAB: An MR acquisition and reconstruction system
-* [ravenxrz/Mathematical-Modeling](https://github.com/ravenxrz/Mathematical-Modeling) - 数学建模算法学习
-* [OpenWaterAnalytics/EPANET-Matlab-Toolkit](https://github.com/OpenWaterAnalytics/EPANET-Matlab-Toolkit) - A Matlab class for EPANET water distribution simulation libraries
-* [d-kitamura/ILRMA](https://github.com/d-kitamura/ILRMA) - MATLAB script of Independent Low-Rank Matrix Analysis (ILRMA)
-* [CHLNDDEV/OceanMesh2D](https://github.com/CHLNDDEV/OceanMesh2D) - A fast two-dimensional triangular mesh generator written in MATLAB designed specifically for coastal models that solve shallow-water equations.
-* [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet) - A Matlab implementation of the capsule networks (or capsnet).
-* [vitorsr/SIHR](https://github.com/vitorsr/SIHR) - Ongoing effort of implementing fast/non-data-aided single image highlight removal methods in MATLAB/GNU Octave
-* [petercorke/toolbox-common-matlab](https://github.com/petercorke/toolbox-common-matlab) - Common code for MATLAB toolboxes for Robotics, Machine Vision
+* [RenderToolbox/RenderToolbox4](https://github.com/RenderToolbox/RenderToolbox4) - Matlab toolbox for managing 3D scenes and physically-based rendering.
+* [petercorke/spatial-math](https://github.com/petercorke/spatial-math) - Spatial math primitives for MATLAB
 * [olivierlar/miningsuite](https://github.com/olivierlar/miningsuite) - Comprehensive Matlab framework for signal, audio and music analysis, articulating audio and symbolic approaches
-* [noureldien/FingerprintRecognition](https://github.com/noureldien/FingerprintRecognition) - Fingerprint Recognition in runtime using images captured from mobile. Built using Android and OpenCV. Also built in MATLAB.
+* [eliduenisch/latexTable](https://github.com/eliduenisch/latexTable) - This MATLAB function converts matrices, cells or tables from MATLAB to LaTeX table code.
+* [yechengxi/LightCapsNet](https://github.com/yechengxi/LightCapsNet) - A Matlab implementation of the capsule networks (or capsnet).
+* [playerkk/drfi_matlab](https://github.com/playerkk/drfi_matlab) - MATLAB implementation of the paper Salient Object Detection: A Discriminative Regional Feature Integration Approach
+* [petercorke/toolbox-common-matlab](https://github.com/petercorke/toolbox-common-matlab) - Common code for MATLAB toolboxes for Robotics, Machine Vision
 * [NOCIONS/letswave6](https://github.com/NOCIONS/letswave6) - Letswave 6 - Matlab EEG signal processing toolbox
 * [mpf/spot](https://github.com/mpf/spot) - A linear-operator toolbox for Matlab
-* [MaoXu/Joint_Bayesian](https://github.com/MaoXu/Joint_Bayesian) - According to  the paper "Bayesian Face Revisited: A Joint Formulation",  the repository realizes the algorithm of  Joint Beyesian with Matlab and achieve the same result as the paper
 * [lostanlen/scattering.m](https://github.com/lostanlen/scattering.m) - Scattering.m — a MATLAB toolbox for wavelet scattering
+* [alexgkendall/OPTICS_Clustering](https://github.com/alexgkendall/OPTICS_Clustering) - MATLAB Implementation of the OPTICS unsupervised clustering algorithm
+* [noureldien/FingerprintRecognition](https://github.com/noureldien/FingerprintRecognition) - Fingerprint Recognition in runtime using images captured from mobile. Built using Android and OpenCV. Also built in MATLAB.
+* [MaoXu/Joint_Bayesian](https://github.com/MaoXu/Joint_Bayesian) - According to  the paper "Bayesian Face Revisited: A Joint Formulation",  the repository realizes the algorithm of  Joint Beyesian with Matlab and achieve the same result as the paper
 * [lawrennd/mocap](https://github.com/lawrennd/mocap) - Matlab software for processing motion capture files.
-* [eliduenisch/latexTable](https://github.com/eliduenisch/latexTable) - This MATLAB function converts matrices, cells or tables from MATLAB to LaTeX table code.
 * [Data2Dynamics/d2d](https://github.com/Data2Dynamics/d2d) - a modeling environment tailored to parameter estimation in dynamical systems
-* [caomw/matlab-forensics](https://github.com/caomw/matlab-forensics) - MATLAB implementations of popular Image Forensic algorithms
-* [playerkk/drfi_matlab](https://github.com/playerkk/drfi_matlab) - MATLAB implementation of the paper Salient Object Detection: A Discriminative Regional Feature Integration Approach
 * [davidstutz/matlab-mnist-two-layer-perceptron](https://github.com/davidstutz/matlab-mnist-two-layer-perceptron) - A two layer perceptron implemented in MatLab to recognize handwritten digits based on the MNIST dataset.
 * [libDirectional/libDirectional](https://github.com/libDirectional/libDirectional) - Matlab library for directional statistics and directional estimation
 * [tomgoldstein/phasepack-matlab](https://github.com/tomgoldstein/phasepack-matlab) - A software library for solving phase retrieval problems, and comparing phase retrieval methods.
@@ -307,11 +312,8 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [pengsun/MatlabCNN](https://github.com/pengsun/MatlabCNN) - Matlab codes for 2D Convolutional Neural Network
 * [FacePlusPlus/facepp-matlab-sdk](https://github.com/FacePlusPlus/facepp-matlab-sdk) - Matlab SDK for Face++ V2 API
 * [precise-simulation/featool-multiphysics](https://github.com/precise-simulation/featool-multiphysics) - FEATool Multiphysics - Physics Simulation Made Easy
-* [spm/spm12](https://github.com/spm/spm12) - SPM12
-* [RenderToolbox/RenderToolbox4](https://github.com/RenderToolbox/RenderToolbox4) - Matlab toolbox for managing 3D scenes and physically-based rendering.
 * [MITComputationalCamera/LightFields](https://github.com/MITComputationalCamera/LightFields) - HW#3 Uses Matlab to compute a lightfield refocus
 * [DC9ST/tdoa-evaluation-rtlsdr](https://github.com/DC9ST/tdoa-evaluation-rtlsdr) - Matlab Scripts for Evaluation of a TDOA System based on RTL-SDRs
-* [alexgkendall/OPTICS_Clustering](https://github.com/alexgkendall/OPTICS_Clustering) - MATLAB Implementation of the OPTICS unsupervised clustering algorithm
 * [softwarespartan/IB4m](https://github.com/softwarespartan/IB4m) - Interactive Brokers API for Matlab
 * [sachinkariyattin/HWCR](https://github.com/sachinkariyattin/HWCR) - Handwritten Character Recognition System using Neural Networks is developed using MATLAB Neural Network and Image Processing tool box. This system has been developed using existing algorithms like Preprocessing and Feature Extraction techniques.
 * [pengsun/MexConv3D](https://github.com/pengsun/MexConv3D) - Matlab mex implementation of the basic operations for 3D (volume) Convolutional Neural Network
@@ -385,180 +387,3 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [nathanieljohnston/QETLAB](https://github.com/nathanieljohnston/QETLAB) - A MATLAB toolbox for quantum entanglement.
 * [markallenthornton/MatlabTFCE](https://github.com/markallenthornton/MatlabTFCE) - Standalone MATLAB implementation of permutation TFCE correction
 * [JaimeIvanCervantes/FaceRecognition](https://github.com/JaimeIvanCervantes/FaceRecognition) - Face recognition written in MATLAB. This code implements Fisher's Discriminant Analysis and SVMs using LIBSVM.
-* [indigits/sparse-plex](https://github.com/indigits/sparse-plex) - A  MATLAB library for sparse representation problems
-* [daharoni/Miniscope_Analysis](https://github.com/daharoni/Miniscope_Analysis) - MATLAB analysis functions for Miniscope project.
-* [cvondrick/matlabutil](https://github.com/cvondrick/matlabutil) - Why does MATLAB not have these functions...?
-* [csalinasonline/KalmanMatlabCode](https://github.com/csalinasonline/KalmanMatlabCode) - Kalman Filter for Beginners: with MATLAB Examples
-* [ComplexNetTSP/IEEE802_15_4_Matlab](https://github.com/ComplexNetTSP/IEEE802_15_4_Matlab) - Matlab Code of the implementation of IEEE 802.15.4 Mac/Phy Layer
-* [coco-team/cocoSim](https://github.com/coco-team/cocoSim) - Automated Analysis Framework for Simulink/Stateflow
-* [CALFEM/calfem-matlab-iga](https://github.com/CALFEM/calfem-matlab-iga) - Isogeometric Analysis toolbox for CALFEM
-* [byrneta/Computational-Fluid-Dynamics](https://github.com/byrneta/Computational-Fluid-Dynamics) - Selected MATLAB code I wrote while taking a CFD class in graduate school. Project descriptions are included.
-* [brussell123/LabelMe3dToolbox](https://github.com/brussell123/LabelMe3dToolbox) - LabelMe3D Matlab toolbox
-* [brigr/k-means](https://github.com/brigr/k-means) - My MATLAB implementation of the K-means clustering algorithm
-* [brian-lau/MatlabQuery](https://github.com/brian-lau/MatlabQuery) - LINQ -like queries in Matlab
-* [brian-lau/MatlabProcessManager](https://github.com/brian-lau/MatlabProcessManager) - Matlab class for launching and managing asynchronous processes
-* [bishesh/statsCompare-RiemannianManifold-Groups](https://github.com/bishesh/statsCompare-RiemannianManifold-Groups) - A set of matlab codes to explore the differences in statistics on Riemannian manifold and groups.
-* [Biospec/cluster-toolbox-v2.0](https://github.com/Biospec/cluster-toolbox-v2.0) - Chemometrics Toolbox for MATLAB
-* [bileschi/Matlab-Useful-Stuff](https://github.com/bileschi/Matlab-Useful-Stuff) - This contains an accumulation of tools I have built for myself over the course of long MATLAB career.  Some of these tools have been added in newer versions of the MATLAB standard API.  Most of it is geared towards low level image processing.  Beware, much of it was experimental and uncommented.
-* [bibliolytic/MTlearning](https://github.com/bibliolytic/MTlearning) - Multi-task learning framework (see Jayaram et al. 2016, to be publilshed Feb. 2016) written in MATLAB. Python version coming shortly...
-* [baaatx/cog_comm_tools](https://github.com/baaatx/cog_comm_tools) - Set of tools for working with PTB within MATLab for the Cognition And Communications lab at UT Austin.
-* [axg2016/16-QAM-QPSK-BPSK](https://github.com/axg2016/16-QAM-QPSK-BPSK) - Simulation in MATLAB of Digital Communication modulations (BPSK,QPSK,16 QAM) to find the performance and probability of error in Rayleigh and Rician fading environments
-* [avishaiwa/SVLS](https://github.com/avishaiwa/SVLS) - A MATLAB software for SVLS algorithm
-* [arolet/wasserstein-dictionary-learning](https://github.com/arolet/wasserstein-dictionary-learning) - A matlab toolbox to perform Wasserstein Dictionary Learning or NMF
-* [AnthonyShiverMicrobes/fitness_score](https://github.com/AnthonyShiverMicrobes/fitness_score) - matlab code for the import, filtering, normalization, and scoring of colony array image quantification results
-* [andronovl/SharpViSu](https://github.com/andronovl/SharpViSu) - Matlab-based software for corrections and processing of super-resolution microscopy data
-* [anarakonjac/absorption-image-analyser](https://github.com/anarakonjac/absorption-image-analyser) - A Matlab GUI for processing and analysing absorption images from cold atom experiments.
-* [abill/DeBlur](https://github.com/abill/DeBlur) - motion blur healing matlab project
-* [zhangzhensong/movingleastsquare](https://github.com/zhangzhensong/movingleastsquare) - This is an matlab implementation of Siggraph 06 paper "Image deformation using moving least squares",
-* [yuandong-tian/Document-Rectification--CVPR11-](https://github.com/yuandong-tian/Document-Rectification--CVPR11-) - Matlab codes for Rectification and 3D Reconstruction of Curved Document Images (CVPR 11)
-* [YoonusMD/HandGestureRecognition](https://github.com/YoonusMD/HandGestureRecognition) - Hand Gesture Recognition Code for Matlab
-* [wuhabi/cnn](https://github.com/wuhabi/cnn) - implementation of convolutional neural networks in matlab
-* [wspr/splines-matlab](https://github.com/wspr/splines-matlab) - Hobby's spline algorithm in Matlab
-* [wittawatj/smir](https://github.com/wittawatj/smir) - Semi-supervised classifier with squared-loss mutual information regularization
-* [wittawatj/l1lsmi](https://github.com/wittawatj/l1lsmi) - squared-loss mutual information based feature selection
-* [WiLab/sdruOFDM](https://github.com/WiLab/sdruOFDM) - OFDM implemented in MATLAB for USRP radios with MAC Layer
-* [urbste/MLPnP_matlab](https://github.com/urbste/MLPnP_matlab) - MLPnP - A maximum likelihood solution to the Perspective-N-Point problem
-* [tytell/neuromech](https://github.com/tytell/neuromech) - Neuromechanics Matlab scripts
-* [troyhaskin/MatlabToolbox](https://github.com/troyhaskin/MatlabToolbox) - Collection of Matlab scripts developed as needed/wanted
-* [tprasadtp/delay-reverb-matlab](https://github.com/tprasadtp/delay-reverb-matlab) - delay-reverb-matlab
-* [tonyfast/SpatialStatisticsFFT](https://github.com/tonyfast/SpatialStatisticsFFT) - A matlab function to compute Pair and Vector Resolved Spatial Statistics on Materials Science information.
-* [tomdoel/depmat](https://github.com/tomdoel/depmat) - Dependency management for Matlab repositories
-* [tleeuwen/SimpleFWI](https://github.com/tleeuwen/SimpleFWI) - Simple matlab code for testing optimization algorithms on seismic inverse problems
-* [tir38/ASL_GUI](https://github.com/tir38/ASL_GUI) - American Sign Language Recognition System (MATLAB)
-* [theshadowx/MatLabRLCSimulator](https://github.com/theshadowx/MatLabRLCSimulator) - RLC circuit simulator in MatLab
-* [ThePolywellGuy/Matlab-Modeling](https://github.com/ThePolywellGuy/Matlab-Modeling) - Download the MATLAB Code Used to Model WB6!
-* [tarlen5/coursera_ml](https://github.com/tarlen5/coursera_ml) - Problem sets and assignments for the coursera machine learning course, completed in octave/matlab.
-* [taoyilee/HFSS_API](https://github.com/taoyilee/HFSS_API) - The HFSS MATLAB API
-* [svalinn/matlab_meshtal_tools](https://github.com/svalinn/matlab_meshtal_tools) - Matlab tools for MCNP mesh tally files
-* [stuart-knock/BrainNetworkModels](https://github.com/stuart-knock/BrainNetworkModels) - Matlab code which was the basis of TheVirtualBrain scientific library.
-* [stochasticresearch/copula](https://github.com/stochasticresearch/copula) - Matlab Copula Toolbox
-* [stefano-galelli/Matlab-Multi-objective-Feature-Selection](https://github.com/stefano-galelli/Matlab-Multi-objective-Feature-Selection) - MatLab implementation of W-QEISS, F-QEISS and W-MOSS: three algorithms for the selection of (quasi) equally informative subsets
-* [speredenn/refprop-matlab-additions](https://github.com/speredenn/refprop-matlab-additions) - A more usable backend to use NIST REFPROP routines from MATLAB
-* [smcg/MARTA](https://github.com/smcg/MARTA) - MATLAB-based experimental control software
-* [SkyRiderMike/vimu-filter](https://github.com/SkyRiderMike/vimu-filter) - Visual-Inertial Filter implemented in Simulink/MATLAB
-* [sjgershm/tlsa_matlab](https://github.com/sjgershm/tlsa_matlab) - Matlab code for Topographic Latent Source Analysis of brain imaging data
-* [sid5291/SensorTag-Matlab](https://github.com/sid5291/SensorTag-Matlab) - A Matlab program to interface with the Sensor tag using the CC2540
-* [shaoguangcheng/cdbn_matlab](https://github.com/shaoguangcheng/cdbn_matlab) - an implementation of Convolutional Deep Belief Network (CDBN) using Matlab
-* [sg-s/spikesort](https://github.com/sg-s/spikesort) - Fast, powerful spike sorting of extracellular neuron recordings. 99.5% accuracy.
-* [sg-s/kontroller](https://github.com/sg-s/kontroller) - A MATLAB package for NI-DAQ to help you do experiments. Kontroller has a easy-to-use GUI, with support for automation and is fully programmable.
-* [sfraundorf/CogToolbox](https://github.com/sfraundorf/CogToolbox) - CogToolbox for cognitive psychology & psycholinguistic experiments in MATLAB
-* [scy0208/EM-GMM-matlab](https://github.com/scy0208/EM-GMM-matlab) - Using EM algorithm for mixed Gaussian distribution clustering
-* [scottclowe/superbar](https://github.com/scottclowe/superbar) - Better bar charts for MATLAB.
-* [sauravag/FIRM-MATLAB](https://github.com/sauravag/FIRM-MATLAB) - FIRM Toolbox for MATLAB
-* [robEllenberg/MATLAB](https://github.com/robEllenberg/MATLAB) - Useful public-domain matlab scripts and functions
-* [Relja/relja_matlab](https://github.com/Relja/relja_matlab) - Miscellaneous utilities
-* [raacampbell/sigstar](https://github.com/raacampbell/sigstar) - add significance stars to MATLAB plots
-* [raacampbell/matlab_elastix](https://github.com/raacampbell/matlab_elastix) - MATLAB Elastix wrapper
-* [qinxiuchen/matlab-decisionTree](https://github.com/qinxiuchen/matlab-decisionTree) - matlab decisionTree for classification
-* [probml/pmtk1](https://github.com/probml/pmtk1) - A probabilistic modeling toolkit for Matlab/Octave.  (Deprecated/old version.)
-* [pmaher86/colormouse](https://github.com/pmaher86/colormouse) - MATLAB color axis mouse control
-* [okomarov/wrds](https://github.com/okomarov/wrds) - Matlab API to access WRDS
-* [msaveski/LCE](https://github.com/msaveski/LCE) - Matlab Implementation of the Local Collective Embeddings model
-* [mjirik/matlab-interactive-3D-graph-cut](https://github.com/mjirik/matlab-interactive-3D-graph-cut) - Interactive 3D Graph Cut for Matlab
-* [minjay/NeedMat](https://github.com/minjay/NeedMat) - A Matlab Package for Spherical Needlets
-* [michellehirsch/MATLAB-Scopes](https://github.com/michellehirsch/MATLAB-Scopes) - A small collection of scopes for real time display of signals in MATLAB.
-* [micahjsmith/bls-matlab](https://github.com/micahjsmith/bls-matlab) - Pull data from Bureau of Labor Statistics (BLS) directly into Matlab
-* [memsindustrygroup/TSim](https://github.com/memsindustrygroup/TSim) - Matlab-based simulation of object trajectories
-* [maximosipov/actant](https://github.com/maximosipov/actant) - Activity analysis toolbox for Matlab
-* [mattpitkin/yamm](https://github.com/mattpitkin/yamm) - Yet Another Matlab MCMC code
-* [mattpitkin/matlabmultinest](https://github.com/mattpitkin/matlabmultinest) - A Matlab nested sampling implementation
-* [matthew-brett/matlabtesting](https://github.com/matthew-brett/matlabtesting) - Basic unit test rig for matlab
-* [Matlab-Biometric-recognition/Face-Recognition-Biometric-With-Wavelet-and-Neural-Network-Matlab-Code](https://github.com/Matlab-Biometric-recognition/Face-Recognition-Biometric-With-Wavelet-and-Neural-Network-Matlab-Code) - Face Recognition [Wavelet and Neural Networks ] V2
-* [mateusjoffily/OMR](https://github.com/mateusjoffily/OMR) - Optical Mark Recognition (OMR) Toolbox for Matlab
-* [martinarjovsky/Support-Vector-Machine](https://github.com/martinarjovsky/Support-Vector-Machine) - MATLAB implementation of the Support Vector Machine algorithm
-* [markus-nilsson/md-dmri](https://github.com/markus-nilsson/md-dmri) - MATLAB code for Multidimensional Diffusion MRI
-* [manuamador/ReverberationChamber_MatlabModel](https://github.com/manuamador/ReverberationChamber_MatlabModel) - A simple Matlab model of electromagnetic reverberation chamber based on image theory.
-* [MalteKurz/VineCopulaMatlab](https://github.com/MalteKurz/VineCopulaMatlab) - A MATLAB toolbox for vine copulas based on C++
-* [macvicab/MITT](https://github.com/macvicab/MITT) - Multi-Instrument Turbulence Toolbox (Matlab)
-* [lukacu/visual-tracking-matlab](https://github.com/lukacu/visual-tracking-matlab) - Matlab code for several visual tracking algorithms
-* [LNSD/ShazamMatlab](https://github.com/LNSD/ShazamMatlab) - Matlab implementation of Shazam-linke hashing algorithm and db search.
-* [lnls-fac/MatlabMiddleLayer](https://github.com/lnls-fac/MatlabMiddleLayer) - Matlab scripts
-* [Liusifei/Face-Hallucination](https://github.com/Liusifei/Face-Hallucination) - face hallucination algorithms in matlab
-* [joelimlimit/SketchTokens](https://github.com/joelimlimit/SketchTokens) - A tool for extracting contour-based mid-level features, and to extract contour segmentations from images
-* [gpeyre/numerical-tours](https://github.com/gpeyre/numerical-tours) - Numerical Tours of Signal Processing
-* [alexgo1/Video-Stabilization](https://github.com/alexgo1/Video-Stabilization) - Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes
-* [rieder91/MachineLearning](https://github.com/rieder91/MachineLearning) - Exercises for the Stanford/Coursera Machine Learning Class
-* [alexandrebarachant/DecMeg2014](https://github.com/alexandrebarachant/DecMeg2014) - Winning solution for the DecMeg2014 challenge https://www.kaggle.com/c/decoding-the-human-brain
-* [willard-yuan/hashing-baseline-for-image-retrieval](https://github.com/willard-yuan/hashing-baseline-for-image-retrieval) - Various hashing methods for image retrieval and serves as the baselines
-* [aravindhm/deep-goggle](https://github.com/aravindhm/deep-goggle) - Source code for "Understanding Deep Image Representations by Inverting Them", CVPR 2015
-* [shelhamer/visual-pulse-monitor](https://github.com/shelhamer/visual-pulse-monitor) - Measure heart rate from standard video recording (UMass CS 691A final project)
-* [everpeace/ml-class-assignments](https://github.com/everpeace/ml-class-assignments) - Programming Exercises on http://ml-class.org
-* [amaas/rnn-speech-denoising](https://github.com/amaas/rnn-speech-denoising) - Recurrent neural network training for noise reduction in robust automatic speech recognition
-* [DynareTeam/dynare](https://github.com/DynareTeam/dynare) - Dynare: a platform for handling a wide class of economic models
-* [aeolianine/octave-networks-toolbox](https://github.com/aeolianine/octave-networks-toolbox) - A set of graph/networks analysis functions in Octave
-* [JimmyLin192/GraphicalModel](https://github.com/JimmyLin192/GraphicalModel) - Courera Version of Graphical Model.. Cooperate with Jian Guo.
-* [SaveTheRbtz/ml-class](https://github.com/SaveTheRbtz/ml-class) - Stanford Machine learning class excercises
-* [vistalab/vistasoft](https://github.com/vistalab/vistasoft) - VISTASOFT is the main software repository of the VISTA lab at Stanford University.
-* [jmcohen/taste](https://github.com/jmcohen/taste) - jmcohen.github.io
-* [benhamner/Air-Quality-Prediction-Hackathon-Winning-Model](https://github.com/benhamner/Air-Quality-Prediction-Hackathon-Winning-Model) - Contains the code for the model that won Kaggle's Air Quality Prediction Hackathon
-* [vedaldi/practical-cnn](https://github.com/vedaldi/practical-cnn) - A VGG practical on convolutional neural networks
-* [open-bldc/open-bldc-hardware](https://github.com/open-bldc/open-bldc-hardware) - OpenSource Brushless Drive Controller Hardware
-* [hosang/detection-proposals](https://github.com/hosang/detection-proposals) - Evaluation of detection performance, recall, and repeatability of detection proposal algorithms
-* [sidaw/fastdropout](https://github.com/sidaw/fastdropout) - code for fast dropout, messy
-* [saurabhme/discriminative-patches](https://github.com/saurabhme/discriminative-patches) - Unsupervised Discovery of Mid-Level Discriminative Patches
-* [rhodricusack/automaticanalysis](https://github.com/rhodricusack/automaticanalysis) - Automatic analysis
-* [mpf/spgl1](https://github.com/mpf/spgl1) - A solver for large-scale sparse reconstruction
-* [ziyuw/rembo](https://github.com/ziyuw/rembo) - Bayesian optimization in high-dimensions via random embedding.
-* [ruins/offline-narrative](https://github.com/ruins/offline-narrative) - Code for the Narrative Clip (getnarrative.com) that uses the local HDD cache of images, sensor data and meta information to perform life logging and other operations.
-* [lukeweston/SimpleFMCWRadar](https://github.com/lukeweston/SimpleFMCWRadar) - A simple, low-power, low-cost 5.8-6.0 GHz microwave FMCW radar
-* [YimianDai/Image-Processing-Codes-for-Easier-Understanding](https://github.com/YimianDai/Image-Processing-Codes-for-Easier-Understanding) - original or modified image processing codes for easier understanding
-* [ttomita/RandomerForest](https://github.com/ttomita/RandomerForest) - Discriminant Projection Forest results, datasets, etc.
-* [palmerc/GeodeticUTMConverter](https://github.com/palmerc/GeodeticUTMConverter) - An objective-C converter of UTM to/from latitude and longitude
-* [jbhuang0604/StructCompletion](https://github.com/jbhuang0604/StructCompletion) - Image Completion using Planar Structure Guidance (SIGGRAPH 2014)
-* [endernewton/neil-test](https://github.com/endernewton/neil-test) - NEIL Test Code
-* [batra-mlp-lab/object-proposals](https://github.com/batra-mlp-lab/object-proposals) - Repository containing wrapper to obtain various object proposals easily
-* [Teaonly/beginlearning](https://github.com/Teaonly/beginlearning) - Practices for machine learning
-* [peterwilliams97/ml_class](https://github.com/peterwilliams97/ml_class) - Work for the Andrew Ng online ML class
-* [oseledets/TT-Toolbox](https://github.com/oseledets/TT-Toolbox) - The git repository for the TT-Toolbox
-* [jponttuset/mcg](https://github.com/jponttuset/mcg) - Multiscale Combinatorial Grouping - State-of-the-art Object Proposals and Segmentation
-* [distrep/DMLT](https://github.com/distrep/DMLT) - Donders Machine Learning Toolbox
-* [tomtung/Learning-Machine-Learning](https://github.com/tomtung/Learning-Machine-Learning) - Machine learning algorithms I implemented using different programming languages.
-* [opencobra/cobratoolbox](https://github.com/opencobra/cobratoolbox) - COnstraint-Based Reconstruction and Analysis toolbox
-* [norouzi/ckmeans](https://github.com/norouzi/ckmeans) - Cartesian k-means for approximate nearest neghbor search, codebook learning, etc.
-* [JiaoXianjun/rtl-sdr-LTE](https://github.com/JiaoXianjun/rtl-sdr-LTE) - Play with LTE signal (especially China TD-LTE) captured by rtl-sdr
-* [jhoffman/lsda](https://github.com/jhoffman/lsda) - Large scale detection through adaptation
-* [endernewton/subdiscover](https://github.com/endernewton/subdiscover) - Subcategory Discovery and Segmentation for CVPR 2014 Paper (http://www.cs.cmu.edu/~xinleic/papers/cvpr14.pdf)
-* [drakeguan/cp11fall_project1](https://github.com/drakeguan/cp11fall_project1) - Implementation of Edge-Preserving Multiscale Image Decomposition Based on Local Extrema
-* [bensapp/MODEC](https://github.com/bensapp/MODEC) - Multimodal Decomposable Model for Human Pose Estimation
-* [albertyang33/TADW](https://github.com/albertyang33/TADW) - code for IJCAI2015 paper "Network Representation Learning with Rich Text Information"
-* [1094401996/machine-learning-coursera](https://github.com/1094401996/machine-learning-coursera) - Lecture notes and assignments for coursera machine learning class
-* [kristinbranson/JAABA](https://github.com/kristinbranson/JAABA) - Janelia Animal Behavior Detector
-* [jacobeisenstein/SAGE](https://github.com/jacobeisenstein/SAGE) - Sparse Additive Generative Model of Text
-* [gpstuff-dev/gpstuff](https://github.com/gpstuff-dev/gpstuff) - GPstuff - Gaussian process models for Bayesian analysis
-* [bmcfee/mlr](https://github.com/bmcfee/mlr) - Metric Learning to Rank
-* [yaoliUoA/MDPM](https://github.com/yaoliUoA/MDPM) - Mid-level Deep Pattern Mining
-* [s-gupta/rgbd](https://github.com/s-gupta/rgbd) - Code for CVPR13 paper - Perceptual Organization and Recognition of Indoor Scenes from RGB-D Images
-* [maxime/ChinaMapDeviation](https://github.com/maxime/ChinaMapDeviation) - A method to correct the China Map Deviation, written as an Objective-C category on CLLocation
-* [mabrauer/hyperloop_sl](https://github.com/mabrauer/hyperloop_sl) - Hyperloop model in Simulink for collaboration
-* [jsupancic/SPLTT-Release](https://github.com/jsupancic/SPLTT-Release) - The Release Code for our CVPR 2013 Submission "Self-paced learning for long-term tracking".
-* [greeness/deep-learning](https://github.com/greeness/deep-learning) - Collection of deep learning resources.
-* [cbm755/octsympy](https://github.com/cbm755/octsympy) - A Symbolic Package for Octave using SymPy
-* [PetterS/patch-inpainting](https://github.com/PetterS/patch-inpainting) - Image inpainting using coherency senstitive hashing
-* [silverlab/megavista](https://github.com/silverlab/megavista) - mrVista and Silverlab improvements and developments to mrVista
-* [rvlasveld/oc_svm](https://github.com/rvlasveld/oc_svm) - One-Class SVM implementations for temporal segmentation of human activities
-* [pmineiro/randembed](https://github.com/pmineiro/randembed) - Randomized embeddings for extreme learning
-* [norouzi/hdml](https://github.com/norouzi/hdml) - Hamming Distance Metric Learning with Non-linear Projection
-* [jngiam/scoreMatching](https://github.com/jngiam/scoreMatching) - Score Matching Implementation for ICA
-* [google/carfac](https://github.com/google/carfac) - Cascade of Asymmetric Resonators with Fast-Acting Compression cochlear model.
-* [duvenaud/warped-mixtures](https://github.com/duvenaud/warped-mixtures) - Code for density estimation with nonparametric cluster shapes.
-* [dnuffer/dpcode](https://github.com/dnuffer/dpcode) - My deliberate practice code
-* [dennis1088/gaze-text-detection](https://github.com/dennis1088/gaze-text-detection) - Text detection in natural scene images using the Stoke Width Transform.
-* [anhncs/Probabilistic-Graphical-Models](https://github.com/anhncs/Probabilistic-Graphical-Models) - Code for Implementation, Inference, and Learning of Bayesian and Markov Networks along with some practical examples.
-* [AlfredXiangWu/face_verification_experiment](https://github.com/AlfredXiangWu/face_verification_experiment) - Face verification experiment for lfw
-* [zygmuntz/metric-learning-for-regression](https://github.com/zygmuntz/metric-learning-for-regression) - Applying metric learning to kin8nm
-* [wilsonkl/sfm-disambig](https://github.com/wilsonkl/sfm-disambig) - code from ICCV paper: Network Principles for SfM: Disambiguating Repeated Structures with Local Context
-* [vedaldi/visualindex](https://github.com/vedaldi/visualindex) - A simple demo of visual object matching using VLFeat
-* [taehoonlee/easyDL](https://github.com/taehoonlee/easyDL) - Easy and fast deep learning
-* [rvlasveld/accelerometer_plotting](https://github.com/rvlasveld/accelerometer_plotting) - Quick accelerometer plotting tools.
-* [randvoorhies/SimpleSLAM](https://github.com/randvoorhies/SimpleSLAM) - A simple SLAM implementation for education
-* [probml/pmtksupport](https://github.com/probml/pmtksupport) - Various packages used by PMTK.
-* [jovo/smc-oopsi](https://github.com/jovo/smc-oopsi) - code to implement our sequential monte carlo (smc) algorithm to perform optimal optical spike inference (oopsi) for individual neurons
-* [jflalonde/colorRealism](https://github.com/jflalonde/colorRealism) - Code from the ICCV'07 paper "Using Color Compatibility for Assessing Image Realism"
-* [danielfm/edx-learning-from-data](https://github.com/danielfm/edx-learning-from-data) - My solutions for the CaltechX Learning From Data course on edX.
-* [akutta/Haze-Removal](https://github.com/akutta/Haze-Removal) - Haze Removal Using Dark Channel Prior
-* [JiaoXianjun/multi-rtl-sdr-calibration](https://github.com/JiaoXianjun/multi-rtl-sdr-calibration) - Calibrate multiple rtl-sdr dongles concurrently and make them work together on GSM
-* [strawlab/MultiCamSelfCal](https://github.com/strawlab/MultiCamSelfCal) - multiple camera self calibration Toolbox
-* [sasif/L1-homotopy](https://github.com/sasif/L1-homotopy) - Codes related to L1-norm minimization using homotopy
-* [rbgirshick/dp-dpm](https://github.com/rbgirshick/dp-dpm) - DeepPyramid DPM
-* [ppletscher/BCFWstruct](https://github.com/ppletscher/BCFWstruct) - Block-Coordinate Frank-Wolfe Optimization for Structural SVMs
-* [n-zhang/part-based-RCNN](https://github.com/n-zhang/part-based-RCNN) - Codes and pretrained model for ECCV 14 paper 'Part based RCNNs for fine-grained category detection'
