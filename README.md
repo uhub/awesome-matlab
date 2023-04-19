@@ -97,6 +97,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [liyanluminary/Modeling-and-Simulation-of-MATLAB-Simulink-Communication-System](https://github.com/liyanluminary/Modeling-and-Simulation-of-MATLAB-Simulink-Communication-System) - 详解MATLAB Simulink通信系统建模与仿真 刘学勇编著 源码
 * [2417677728/OFDM](https://github.com/2417677728/OFDM) - A MATLAB program to help understand OFDM.
 * [ShuoYangRobotics/QuadrupedSim](https://github.com/ShuoYangRobotics/QuadrupedSim) - A quadruped robot simulator in Matlab/Simulink
+* [chadagreene/CDT](https://github.com/chadagreene/CDT) - Climate Data Toolbox for MATLAB contains a standard set of MATLAB functions for analyzing and displaying climate data. The functions are computationally efficient, easy to use, and come with many tutorials that describe not only how to use CDT functions, but also offer guidance on how to interpret the results in the context of Earth science processes.
 * [charlienash/nricp](https://github.com/charlienash/nricp) - Matlab implementation of non-rigid iterative closest point
 * [dlaptev/RobustPCA](https://github.com/dlaptev/RobustPCA) - Robust PCA implementation and examples (Matlab)
 * [RANSAC/RANSAC-Toolbox](https://github.com/RANSAC/RANSAC-Toolbox) - A toolbox to experiment with the RANSAC algorithm for Matlab and Octave
