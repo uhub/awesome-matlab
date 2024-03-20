@@ -2,6 +2,7 @@
 
 A curated list of awesome Matlab frameworks, libraries and software.
 
+* [jamesjcai/scGEAToolbox](https://github.com/jamesjcai/scGEAToolbox) - Single-cell RNA-seq (scRNA-seq) data analysis
 * [PRML/PRMLT](https://github.com/PRML/PRMLT) - Matlab code of machine learning algorithms in book PRML
 * [rasmusbergpalm/DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox) - Matlab/Octave toolbox for deep learning. Includes Deep Belief Nets, Stacked Autoencoders, Convolutional Neural Nets, Convolutional Autoencoders and vanilla Neural Nets. Each method has examples to get you started.
 * [personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model) - 数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法
