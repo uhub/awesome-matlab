@@ -1032,3 +1032,4 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [preraulab/multitaper_toolbox](https://github.com/preraulab/multitaper_toolbox) - A multitaper spectral estimation toolbox implemented in Matlab, Python, and R
 * [PeterRochford/SkillMetricsToolbox](https://github.com/PeterRochford/SkillMetricsToolbox) - This toolbox contains a collection of Matlab functions for calculating the skill of model predictions against observations.
 * [ACCLAB/DABEST-Matlab](https://github.com/ACCLAB/DABEST-Matlab) - MATLAB package to generate contrast plots
+* [MOCluGen](https://github.com/clugen/MOCluGen) - Multidimensional cluster generation in MATLAB.
