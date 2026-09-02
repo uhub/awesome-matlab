@@ -1,6 +1,6 @@
 # awesome-matlab
 
-A curated list of awesome Matlab frameworks, libraries and software.
+A curated list of awesome MATLAB frameworks, libraries and software.
 
 * Learning and Reference
 	* [Tutorials and Books](#tutorials-and-books)
@@ -910,9 +910,9 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [ContinuumRoboticsLab/CRVisToolkit](https://github.com/ContinuumRoboticsLab/CRVisToolkit) - This is a set of MATLAB and Python functions for visualization and plotting of continuum robots.
 * [mathworks/FPGA-Adaptive-Beamforming-and-Radar-Examples](https://github.com/mathworks/FPGA-Adaptive-Beamforming-and-Radar-Examples) - This repository contains FPGA/HDL demonstrations several beamforming and radar designs. Simulink models and MATLAB reference code are provided to showcase high-level simulation and HDL designs of various radar and array processing algorithms.
 * [nmtimme/Neuroscience-Information-Theory-Toolbox](https://github.com/nmtimme/Neuroscience-Information-Theory-Toolbox) - A MATLAB toolbox for performing information theory analyses of neuroscience data
+* [raimapo/AHRS](https://github.com/raimapo/AHRS) - Attitude and Heading Reference System using MATLAB as simple as possible
 * [sandywang/GRETNA](https://github.com/sandywang/GRETNA) - A Graph-theoretical Network Analysis Toolkit in MATLAB
 * [stabix/stabix](https://github.com/stabix/stabix) - Slip transfer analysis toolbox and GUIs (Matlab)
-* [raimapo/AHRS](https://github.com/raimapo/AHRS) - Attitude and Heading Reference System using MATLAB as simple as possible
 * [yuhsuansia/Extended-target-PMBM-tracker](https://github.com/yuhsuansia/Extended-target-PMBM-tracker) - MATLAB implementation of the extended target PMBM tracker based on sets of trajectories
 * [1PandaDing/Matlab-simulink-](https://github.com/1PandaDing/Matlab-simulink-) - 实用carsim进行仿真，simulink基于mpc进行汽车的控制，使得汽车按照给定路径点进行运行，生成视频
 * [JSLee121230/Energy-Ef-cient-Data-Collection-in-UAV-Enabled-Wireless-Sensor-Network](https://github.com/JSLee121230/Energy-Ef-cient-Data-Collection-in-UAV-Enabled-Wireless-Sensor-Network) - Energy Efﬁcient Data Collection in UAV Enabled Wireless Sensor Network in matlab
@@ -1293,9 +1293,9 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [cvlab-epfl/EPnP](https://github.com/cvlab-epfl/EPnP) - EPnP: Efficient Perspective-n-Point Camera Pose Estimation
 * [uzh-rpg/dslam_open](https://github.com/uzh-rpg/dslam_open) - Public code for "Data-Efficient Decentralized Visual SLAM"
 * [vana77/Market-1501_Attribute](https://github.com/vana77/Market-1501_Attribute) - 27 hand-annotated attributes of Market-1501
+* [QQH-code/Memristor-Based-Spiking-Neural-Network-Accelerator-for-Bio-inspired-Interception-Task](https://github.com/QQH-code/Memristor-Based-Spiking-Neural-Network-Accelerator-for-Bio-inspired-Interception-Task)
 * [TUMFTM/mod_vehicle_dynamics_control](https://github.com/TUMFTM/mod_vehicle_dynamics_control) - TUM Roborace Team Software Stack - Path tracking control, velocity control, curvature control and state estimation.
 * [jwyang/JULE.torch](https://github.com/jwyang/JULE.torch) - Torch code for our CVPR 2016 paper "Joint Unsupervised LEarning of Deep Representations and Image Clusters"
-* [QQH-code/Memristor-Based-Spiking-Neural-Network-Accelerator-for-Bio-inspired-Interception-Task](https://github.com/QQH-code/Memristor-Based-Spiking-Neural-Network-Accelerator-for-Bio-inspired-Interception-Task)
 * [benzenemo/TightlyCoupledINSGNSS](https://github.com/benzenemo/TightlyCoupledINSGNSS) - INS/GNSS紧组合程序，使用伪距、伪距率、INS测量，支持双天线测向数据。
 * [e0404/matRad](https://github.com/e0404/matRad) - An open source multi-modality radiation treatment planning sytem developed by e0404 @ DKFZ
 * [opencobra/cobratoolbox](https://github.com/opencobra/cobratoolbox) - The COnstraint-Based Reconstruction and Analysis Toolbox. Documentation:
@@ -1306,8 +1306,8 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [dbekaert/StaMPS](https://github.com/dbekaert/StaMPS) - Stanford Method for Persistent Scatterers
 * [nightrome/cocostuff10k](https://github.com/nightrome/cocostuff10k) - The official homepage of the (outdated) COCO-Stuff 10K dataset.
 * [yangzhen0512/IntelligentOptimizationAlgorithms](https://github.com/yangzhen0512/IntelligentOptimizationAlgorithms) - This repository displays the demos of some Intelligent Optimization Algorithms, including SA (Simulated Annealing), GA (Genetic algorithm), PSO (Particle Swarm Optimizer) and so on. And some other algorithms will be appended in the future.
-* [bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit) - The Starter-kit has moved to the new BIDS website.
 * [Terriao/OpenJND](https://github.com/Terriao/OpenJND) - An Open-Source Algorithm Library of Just Noticeable Difference
+* [bids-standard/bids-starter-kit](https://github.com/bids-standard/bids-starter-kit) - The Starter-kit has moved to the new BIDS website.
 * [xjwhhh/AndrewNgMachineLearning](https://github.com/xjwhhh/AndrewNgMachineLearning)
 * [Cyclotron2333/Task-Offloading-and-Resource-Allocation-for-Multi-Server-Mobile-Edge-Computing-Networks](https://github.com/Cyclotron2333/Task-Offloading-and-Resource-Allocation-for-Multi-Server-Mobile-Edge-Computing-Networks)
 * [baidut/BIMEF](https://github.com/baidut/BIMEF) - Code and data for the research paper "A Bio-Inspired Multi-Exposure Fusion Framework for Low-light Image Enhancement" (Submitted to IEEE Transactions on Cybernetics)
@@ -1338,14 +1338,14 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [61--/weiyanmin](https://github.com/61--/weiyanmin) - Automatically exported from code.google.com/p/weiyanmin
 * [ARCaD-Lab-UM/RF-MPC](https://github.com/ARCaD-Lab-UM/RF-MPC) - Representation-Free Model Predictive Control for Dynamic Quadruped
 * [meyiao/ImuFusion](https://github.com/meyiao/ImuFusion) - EKF IMU Fusion Algorithms
+* [lukasc-ubc/SiliconPhotonicsDesign](https://github.com/lukasc-ubc/SiliconPhotonicsDesign) - Textbook: Lukas Chrostowski, Michael Hochberg, "Silicon Photonics Design", Cambridge University Press 2015
 * [OHBA-analysis/HMM-MAR](https://github.com/OHBA-analysis/HMM-MAR) - Toolbox for segmentation and characterisation of transient connectivity
 * [toshiakit/MatGPT](https://github.com/toshiakit/MatGPT) - MATLAB app to access ChatGPT API from OpenAI
 * [alex-golts/Video-Stabilization](https://github.com/alex-golts/Video-Stabilization) - Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes
-* [lukasc-ubc/SiliconPhotonicsDesign](https://github.com/lukasc-ubc/SiliconPhotonicsDesign) - Textbook: Lukas Chrostowski, Michael Hochberg, "Silicon Photonics Design", Cambridge University Press 2015
 * [liuyuisanai/RSA-for-object-detection](https://github.com/liuyuisanai/RSA-for-object-detection) - Code and some data for 'Recurrent Scale Approximation for Object Detection in CNN' in ICCV 2017
 * [lucasrm25/Gaussian-Process-based-Model-Predictive-Control](https://github.com/lucasrm25/Gaussian-Process-based-Model-Predictive-Control) - Project for the course "Statistical Learning and Stochastic Control" at University of Stuttgart
-* [FRBNY-TimeSeriesAnalysis/Nowcasting](https://github.com/FRBNY-TimeSeriesAnalysis/Nowcasting) - Nowcasting
 * [XiaojianDing/TCBB-SIMKF](https://github.com/XiaojianDing/TCBB-SIMKF) - Code of "Survival-Informed Multi-Omics Kernel Fusion for Cancer Subtyping"
+* [FRBNY-TimeSeriesAnalysis/Nowcasting](https://github.com/FRBNY-TimeSeriesAnalysis/Nowcasting) - Nowcasting
 * [ahojnnes/local-feature-evaluation](https://github.com/ahojnnes/local-feature-evaluation) - Comparative Evaluation of Hand-Crafted and Learned Local Features
 * [matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™
 * [tyshiwo/DRRN_CVPR17](https://github.com/tyshiwo/DRRN_CVPR17) - Code for our CVPR'17 paper "Image Super-Resolution via Deep Recursive Residual Network"
@@ -1490,9 +1490,9 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [tobyma2020/cluster](https://github.com/tobyma2020/cluster) - The codes的K-means，FCM，谱聚类，DBSCAN，AP（AffinityPropagation），DPC聚类算法比较
 * [TUMcps/CORA](https://github.com/TUMcps/CORA) - A Tool for Continuous Reachability Analysis.
 * [qizhuli/Weakly-Supervised-Panoptic-Segmentation](https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation) - Weakly- and Semi-Supervised Panoptic Segmentation (ECCV18)
+* [Waller-Lab/DiffuserCam](https://github.com/Waller-Lab/DiffuserCam) - DiffuserCam Processing Code
 * [XiaojianDing/2021-RRBF-kernel](https://github.com/XiaojianDing/2021-RRBF-kernel) - Random radial basis function kernel-based support vector machine
 * [CrazyStoneonRoad/TGRS-HRRSD-Dataset](https://github.com/CrazyStoneonRoad/TGRS-HRRSD-Dataset)
-* [Waller-Lab/DiffuserCam](https://github.com/Waller-Lab/DiffuserCam) - DiffuserCam Processing Code
 * [wanglimin/UntrimmedNet](https://github.com/wanglimin/UntrimmedNet) - Weakly Supervised Action Recognition and Detection
 * [594422814/UDT](https://github.com/594422814/UDT)
 * [edenhu1111/OFDM-Sensing-Algorithms](https://github.com/edenhu1111/OFDM-Sensing-Algorithms) - Comparison of some classical and novel sensing algorithm for OFDM ISAC radar.
@@ -1552,9 +1552,9 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [anirudhjayaraman/Machine-Learning](https://github.com/anirudhjayaraman/Machine-Learning) - Repo cataloging my coursework for Andrew Ng's ML MOOC
 * [Elyorcv/SAE](https://github.com/Elyorcv/SAE) - Semantic Autoencoder for Zero-shot Learning (Spotlight), CVPR 2017
 * [lujingweihh/Adaptive-dynamic-programming-algorithms](https://github.com/lujingweihh/Adaptive-dynamic-programming-algorithms) - Adaptive dynamic programming
+* [nnaka/sar](https://github.com/nnaka/sar) - Autofocus and image processing algorithm for SAR imaging.
 * [aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping](https://github.com/aimerykong/Recurrent-Pixel-Embedding-for-Instance-Grouping) - CVPR2018 - pixel embedding & grouping for structured prediction, e.g., instance segmentation
 * [hbilen/WSDDN](https://github.com/hbilen/WSDDN) - Weakly Supervised Deep Detection Networks (CVPR 2016)
-* [nnaka/sar](https://github.com/nnaka/sar) - Autofocus and image processing algorithm for SAR imaging.
 * [verivital/nnv](https://github.com/verivital/nnv) - Neural Network Verification Software Tool https://www.verivital.com Documentation:
 * [european-central-bank/BEAR-toolbox](https://github.com/european-central-bank/BEAR-toolbox) - The Bayesian Estimation, Analysis and Regression toolbox (BEAR) is a comprehensive (Bayesian Panel) VAR toolbox for forecasting and policy analysis.
 * [HeLiangHIT/time_frequency](https://github.com/HeLiangHIT/time_frequency) - 时频分析 + 时变阶分数傅立叶变换普 + 时变滤波 相关的毕业设计课题全部代码和论文+PPT，供各位通信、电子信息工程等相关学弟学妹参考。
