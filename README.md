@@ -5,47 +5,25 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * Learning and Reference
 	* [Tutorials and Books](#tutorials-and-books)
 	* [Examples and Exercises](#examples-and-exercises)
-	* [Awesome Lists and Collections](#awesome-lists-and-collections)
 * Language and Tooling
-	* [Compilers and Interpreters](#compilers-and-interpreters)
-	* [Package Management](#package-management)
-	* [Linters and Formatters](#linters-and-formatters)
 	* [Editor and IDE Support](#editor-and-ide-support)
-* Web
-	* [HTTP and Networking Clients](#http-and-networking-clients)
 * Data and Storage
-	* [Database Clients and ORMs](#database-clients-and-orms)
 	* [Serialization and Formats](#serialization-and-formats)
 * Machine Learning and AI
-	* [LLM and Inference](#llm-and-inference)
 	* [Machine Learning Frameworks](#machine-learning-frameworks)
 	* [Computer Vision](#computer-vision)
 	* [Natural Language Processing](#natural-language-processing)
 	* [Data Science and Analytics](#data-science-and-analytics)
 * Networking and Distributed
 	* [Networking](#networking)
-	* [Distributed Systems](#distributed-systems)
-	* [Cloud and Infrastructure](#cloud-and-infrastructure)
 * User Interface
-	* [Terminal and Console UI](#terminal-and-console-ui)
 	* [Applications and End User Tools](#applications-and-end-user-tools)
 * Graphics and Media
 	* [Graphics and Rendering](#graphics-and-rendering)
 	* [Audio](#audio)
 	* [Image and Video](#image-and-video)
-* Security
-	* [Cryptography](#cryptography)
-	* [Security Tools](#security-tools)
-* Testing and Quality
-	* [Testing](#testing)
 * Utilities
-	* [Logging and Configuration](#logging-and-configuration)
-	* [Text Processing](#text-processing)
-	* [Files and Operating System](#files-and-operating-system)
-	* [Automation and Scripting](#automation-and-scripting)
 	* [General Purpose Libraries](#general-purpose-libraries)
-* Systems and Hardware
-	* [Embedded and Firmware](#embedded-and-firmware)
 * Science and Math
 	* [Mathematics](#mathematics)
 	* [Scientific Computing](#scientific-computing)
@@ -157,26 +135,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [roboticcam/matlab_demos](https://github.com/roboticcam/matlab_demos) - it contains all the MATLAB demo code associated with my machine learning notes
 * [PrasannaNatarajan/Coursera-Machine-Learning-Andrew-NG](https://github.com/PrasannaNatarajan/Coursera-Machine-Learning-Andrew-NG) - This is a repository of my coursera Machine Learning by Standford, Andrew NG course's assignments
 
-### Awesome Lists and Collections
-
-* [mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students) - An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.
-* [Tridu33/interesting_Matlab](https://github.com/Tridu33/interesting_Matlab) - 只搜集好玩的Matlab代码，好的资源，应该引向互联网更多开放自由开源的资源，而不是流量闭环
-
 ## Language and Tooling
-
-### Compilers and Interpreters
-
-* [lmendo/MATL](https://github.com/lmendo/MATL) - A programming language based on MATLAB and suitable for code golfing
-* [ebranlard/matlab2fortran](https://github.com/ebranlard/matlab2fortran) - Performs some simple conversions from matlab code to fortran
-
-### Package Management
-
-* [mobeets/mpm](https://github.com/mobeets/mpm) - Simple Matlab package management inspired by pip
-
-### Linters and Formatters
-
-* [davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier) - MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.
-* [simgunz/doxymatlab](https://github.com/simgunz/doxymatlab) - Doxygen parser for MATLAB. Extracts automatically comments from your Matlab .m files using Doxygen to generate the documentation.
 
 ### Editor and IDE Support
 
@@ -187,22 +146,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [textmate/matlab.tmbundle](https://github.com/textmate/matlab.tmbundle) - TextMate support for Matlab / Octave
 * [trnkap/matlab-snippets](https://github.com/trnkap/matlab-snippets) - Code snippets for the Matlab editor.
 
-## Web
-
-### HTTP and Networking Clients
-
-* [softwarespartan/IB4m](https://github.com/softwarespartan/IB4m) - Interactive Brokers API for Matlab
-* [Lenskiy/Yahoo-Quandl-Market-Data-Donwloader](https://github.com/Lenskiy/Yahoo-Quandl-Market-Data-Donwloader) - Matlab functions for market data downloading
-* [quandl/Matlab](https://github.com/quandl/Matlab) - Quandl's Matlab module *(archived)*
-* [plok6325/Parallel-Get](https://github.com/plok6325/Parallel-Get) - a toolbox to get CHN stock data for matlab
-* [FacePlusPlus/facepp-matlab-sdk](https://github.com/FacePlusPlus/facepp-matlab-sdk) - Matlab SDK for Face++ V2 API
-
 ## Data and Storage
-
-### Database Clients and ORMs
-
-* [Accla/d4m](https://github.com/Accla/d4m) - Dynamic Distributed Dimensional Data Model
-* [datajoint/datajoint-matlab](https://github.com/datajoint/datajoint-matlab) - Relational data pipelines for the science lab
 
 ### Serialization and Formats
 
@@ -219,13 +163,6 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [BlackrockNeurotech/NPMK](https://github.com/BlackrockNeurotech/NPMK) - Neural Processing Matlab Kit is a set of functions for loading and manipulating data from Blackrock Microsystems' data files (.CCF, .NEV, .NSx).
 
 ## Machine Learning and AI
-
-### LLM and Inference
-
-* [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) - The MATLAB Agentic Toolkit brings trusted MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.
-* [toshiakit/MatGPT](https://github.com/toshiakit/MatGPT) - MATLAB app to access ChatGPT API from OpenAI
-* [matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™
-* [matlab/agent-skills-playground](https://github.com/matlab/agent-skills-playground) - A collection of Agent Skills for MATLAB development. Skills are specialized instruction sets that extend a coding agent's capabilities for specific tasks, automatically activating when needed.
 
 ### Machine Learning Frameworks
 
@@ -494,19 +431,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [kien-vu/Path-Selection-and-Rate-allocation-in-Self-backhauled-mmWave-Networks](https://github.com/kien-vu/Path-Selection-and-Rate-allocation-in-Self-backhauled-mmWave-Networks) - This is a Matlab code package is related to the article : Path Selection and Rate Allocation for URLLC in Self-backhauled mmWave 5G Networks
 * [Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model](https://github.com/Jayasurya-Marasani/Log-Distance_-Normal-shadowing-pathloss-model) - This repository utilizes MATLAB to implement log distance pathloss and log normal shadowing pathloss models.
 
-### Distributed Systems
-
-* [sinaebrahimi/task-offloading](https://github.com/sinaebrahimi/task-offloading) - MATLAB code for the simulation of our paper entitled "Energy-Efficient Task Offloading Under E2E Latency Constraints"
-
-### Cloud and Infrastructure
-
-* [mathworks/ci-configuration-examples](https://github.com/mathworks/ci-configuration-examples) - This repository makes it easy to run your MATLAB tests on some of the most common CI platforms. The configuration files take care of setting up MATLAB and automatically executing your MATLAB tests.
-
 ## User Interface
-
-### Terminal and Console UI
-
-* [JAAdrian/MatlabProgressBar](https://github.com/JAAdrian/MatlabProgressBar) - This MATLAB class provides a smart progress bar like tqdm in the command window and is optimized for progress information in simple iterations or large frameworks with full support of parallel parfor loops provided by the MATLAB Parallel Computing Toolbox.
 
 ### Applications and End User Tools
 
@@ -627,43 +552,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [LabForComputationalVision/textureSynth](https://github.com/LabForComputationalVision/textureSynth) - This package contains MatLab code for analyzing and synthesizing digital image of visual texture.
 * [NVlabs/SNN](https://github.com/NVlabs/SNN) - Matlab code implementation the modified Non Local Means and Bilateral filters, as described in I. Frosio, J. Kautz, Statistical Nearest Neighbors for Image Denoising, IEEE Trans. Image Processing, 2018. The repository also includes the Matlab code to replicate the results of the toy problem described in the paper.
 
-## Security
-
-### Cryptography
-
-* [descosmos/ChaoticImageEncryption](https://github.com/descosmos/ChaoticImageEncryption) - An image encryption algorithm based on 6-dimensional hyper chaotic system and DNA encoding.
-* [Patrick9313/Digital-Image-Processing](https://github.com/Patrick9313/Digital-Image-Processing) - 基于MATLAB的图像加解密及传输仿真
-* [samhooke/Steganography](https://github.com/samhooke/Steganography) - Image & video steganography in Matlab
-
-### Security Tools
-
-* [Charleswyt/audio_steganalysis_ml](https://github.com/Charleswyt/audio_steganalysis_ml) - Audio steganalysis based on traditional handcrafted features design.
-
-## Testing and Quality
-
-### Testing
-
-* [MOxUnit/MOxUnit](https://github.com/MOxUnit/MOxUnit) - An xUnit framework for Matlab and GNU Octave
-* [psexton/matlab-xunit](https://github.com/psexton/matlab-xunit) - xUnit for Matlab with JUnit-compatible XML output
-
 ## Utilities
-
-### Logging and Configuration
-
-* [optimizers/logging4matlab](https://github.com/optimizers/logging4matlab) - Simple Logging Module for Matlab
-
-### Text Processing
-
-* [eliduenisch/latexTable](https://github.com/eliduenisch/latexTable) - This MATLAB function converts matrices, cells or tables from MATLAB to LaTeX table code.
-* [minoue-xx/livescript2markdown](https://github.com/minoue-xx/livescript2markdown) - MATLAB's live scripts to markdown. The provided function converts your latex (generated from a live script) to markdown so that it could easily produce README.md with MATLAB code, equations, and figures.
-
-### Files and Operating System
-
-* [matlab/terminal-in-matlab](https://github.com/matlab/terminal-in-matlab) - Access system terminal from MATLAB
-
-### Automation and Scripting
-
-* [manur/MATLAB-git](https://github.com/manur/MATLAB-git) - A thin MATLAB wrapper for the Git source control system
 
 ### General Purpose Libraries
 
@@ -674,12 +563,6 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [petercorke/toolbox-common-matlab](https://github.com/petercorke/toolbox-common-matlab) - Common code for MATLAB toolboxes for Robotics, Machine Vision
 * [cvnlab/knkutils](https://github.com/cvnlab/knkutils) - MATLAB utility functions written by Kendrick Kay
 * [tinevez/matlab-tree](https://github.com/tinevez/matlab-tree) - A MATLAB class to represent the tree data structure.
-
-## Systems and Hardware
-
-### Embedded and Firmware
-
-* [analogdevicesinc/MathWorks_tools](https://github.com/analogdevicesinc/MathWorks_tools) - Scripts and tools created by ADI to be used with MATLAB and Simulink with ADI products *(archived)*
 
 ## Science and Math
 
@@ -953,10 +836,10 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [msepulcre/C-V2X](https://github.com/msepulcre/C-V2X) - Analytical Models of the Performance of C-V2X Mode 4 Vehicular Communications
 * [wargod797/Fault_diagnosis_ballbearing_wavelet](https://github.com/wargod797/Fault_diagnosis_ballbearing_wavelet) - Bearing fault diagnosis is important in condition monitoring of any rotating machine. Early fault detection in machinery can save millions of dollars in emergency maintenance cost. Different techniques are used for fault analysis such as short time Fourier transforms (STFT), Wavelet analysis (WA), cepstrum analysis, Model based analysis, etc. we have doing detecting bearing faults using FFT and by using Wavelet analysis more specifically wavelet Analysis up to two levels of approximations and detail components. The analysis is carried out offline in MATLAB. Diagnosing the faults before in hand can save the millions of dollars of industry and can save the time as well. It has been found that Condition monitoring of rolling element bearings has enabled cost saving of over 50% as compared with the old traditional methods. The most common method of monitoring the condition of rolling element bearing is by using vibration signal analysis. Measure the vibrations of machine recorded by velocity
 * [wme7/ApproximateRiemannSolvers](https://github.com/wme7/ApproximateRiemannSolvers) - My personal collection of Riemann solvers using MUSCL and WENO schemes written as short Matlab scripts
+* [gc1905/5g-nr-pusch](https://github.com/gc1905/5g-nr-pusch) - MATLAB implementation of a transmitter and receiver chain of the 5G NR Physical Uplink Shared Channel (PUSCH) defined by 3GPP rel 15.
 * [ikarosilva/wfdb-app-toolbox](https://github.com/ikarosilva/wfdb-app-toolbox) - The WFDB Toolbox for MATLAB/Octave is a collection of functions for reading, writing, and processing physiologic signals in the formats used by PhysioNet (see README for details).
 * [leggedrobotics/vitruvio](https://github.com/leggedrobotics/vitruvio) - Vitruvio is a framework for rapid leg design analysis and optimization for legged robots. The purpose of the simulation framework is to guide the early stages of legged robot design. The end effectors track an input trajectory and the necessary joint speed, torque, power and energy for the tracking is computed.
 * [CALFEM/calfem-matlab](https://github.com/CALFEM/calfem-matlab) - CALFEM - a finite element toolbox for MATLAB
-* [gc1905/5g-nr-pusch](https://github.com/gc1905/5g-nr-pusch) - MATLAB implementation of a transmitter and receiver chain of the 5G NR Physical Uplink Shared Channel (PUSCH) defined by 3GPP rel 15.
 * [robical/StatisticalSignalProcessing](https://github.com/robical/StatisticalSignalProcessing) - Matlab code implementing different methods used in statistical signal processing; mainly Extended Kalman Filters, LMS/RLS, Wiener, robust regression, MMSE estimators, ML estimators, Hi-Frequency estimators (Pisarenko, MUSIC, ESPRIT)
 * [vfitoolkit/VFIToolkit-matlab](https://github.com/vfitoolkit/VFIToolkit-matlab) - A Matlab Toolkit for Macroeconomic Models using Value Function Iteration
 * [YanjunLIU-ac/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/YanjunLIU-ac/Dynamic_Parameter_Identification_for_Rokae_xMate) - Dynamic parameter identification code for rokae xmate manipulator based on MATLAB, including excitation trajectory optimization, LSM method, and N-E formulation of dynamic equation.
@@ -1291,6 +1174,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [VipaiLab/Signals-and-Systems-course](https://github.com/VipaiLab/Signals-and-Systems-course) - 浙江大学信电学院2022信号与系统课程资料
 * [xioTechnologies/Gait-Tracking-With-x-IMU](https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU)
 * [denkywu/SAR-Synthetic-Aperture-Radar](https://github.com/denkywu/SAR-Synthetic-Aperture-Radar) - 合成孔径雷达 相关。研究生期间学习 SAR/InSAR/PolSAR 相关的代码和总结，毕业后已经离开这个领域了。分享出来，仅此纪念。1）SAR: 成像算法，RD，CS，Radarsat-1数据成像处理。2）InSAR: 人造场景原始回波仿真、成像及干涉处理。包括平地场景和圆锥形场景。3）PolSAR: 极化定标算法，Whitt, PARC, Quegan, Ainsworth。详见 readme.md
+* [matlab/matlab-agentic-toolkit](https://github.com/matlab/matlab-agentic-toolkit) - The MATLAB Agentic Toolkit brings trusted MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.
 * [brendenlake/BPL](https://github.com/brendenlake/BPL) - Bayesian Program Learning model for one-shot learning
 * [yuanhao-cui/Must-Reading-on-ISAC](https://github.com/yuanhao-cui/Must-Reading-on-ISAC) - Must Reading Papers, Research Library, Open-Source Code on Integrated Sensing and Communications (aka. Joint Radar and Communications, Joint Sensing and Communications, Dual-Functional Radar Communications)
 * [albanie/convnet-burden](https://github.com/albanie/convnet-burden) - Memory consumption and FLOP count estimates for convnets
@@ -1308,6 +1192,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning) - 灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划
 * [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics) - 数学知识点滴积累 矩阵 数值优化 神经网络反向传播 图优化 概率论 随机过程 卡尔曼滤波 粒子滤波 数学函数拟合
 * [ThomasYeoLab/CBIG](https://github.com/ThomasYeoLab/CBIG)
+* [mathworks/awesome-matlab-students](https://github.com/mathworks/awesome-matlab-students) - An awesome list of helpful resources for students learning MATLAB & Simulink. List includes tips & tricks, tutorials, videos, cheat sheets, and opportunities to learn MATLAB & Simulink.
 * [AlfredXiangWu/face_verification_experiment](https://github.com/AlfredXiangWu/face_verification_experiment) - Original Caffe Version for LightCNN-9. Highly recommend to use PyTorch Version (https://github.com/AlfredXiangWu/LightCNN)
 * [ox-vgg/vgg_face2](https://github.com/ox-vgg/vgg_face2)
 * [VincentWong3/automated-driving-control](https://github.com/VincentWong3/automated-driving-control)
@@ -1336,6 +1221,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [anicolson/DeepXi](https://github.com/anicolson/DeepXi) - Deep Xi: A deep learning approach to a priori SNR estimation implemented in TensorFlow 2/Keras. For speech enhancement and robust ASR.
 * [bertinetto/cfnet](https://github.com/bertinetto/cfnet) - [CVPR'17] Training a Correlation Filter end-to-end allows lightweight networks of 2 layers (600 kB) to high performance at fast speed..
 * [sfzhang15/SFD](https://github.com/sfzhang15/SFD) - S³FD: Single Shot Scale-invariant Face Detector, ICCV, 2017
+* [davidvarga/MBeautifier](https://github.com/davidvarga/MBeautifier) - MBeautifier is a MATLAB source code formatter, beautifier. It can be used directly in the MATLAB Editor and it is configurable.
 * [xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB) - Visible and Infrared Image Fusion Benchmark
 * [erich666/jgt-code](https://github.com/erich666/jgt-code) - Code developed for articles in the "Journal of Graphics Tools"
 * [liuziwei7/fashion-detection](https://github.com/liuziwei7/fashion-detection) - Fashion Detection in the Wild (Deep Clothes Detector)
@@ -1453,6 +1339,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [ARCaD-Lab-UM/RF-MPC](https://github.com/ARCaD-Lab-UM/RF-MPC) - Representation-Free Model Predictive Control for Dynamic Quadruped
 * [meyiao/ImuFusion](https://github.com/meyiao/ImuFusion) - EKF IMU Fusion Algorithms
 * [OHBA-analysis/HMM-MAR](https://github.com/OHBA-analysis/HMM-MAR) - Toolbox for segmentation and characterisation of transient connectivity
+* [toshiakit/MatGPT](https://github.com/toshiakit/MatGPT) - MATLAB app to access ChatGPT API from OpenAI
 * [alex-golts/Video-Stabilization](https://github.com/alex-golts/Video-Stabilization) - Digital Video Stabilization and Rolling Shutter Correction using Gyroscopes
 * [lukasc-ubc/SiliconPhotonicsDesign](https://github.com/lukasc-ubc/SiliconPhotonicsDesign) - Textbook: Lukas Chrostowski, Michael Hochberg, "Silicon Photonics Design", Cambridge University Press 2015
 * [liuyuisanai/RSA-for-object-detection](https://github.com/liuyuisanai/RSA-for-object-detection) - Code and some data for 'Recurrent Scale Approximation for Object Detection in CNN' in ICCV 2017
@@ -1460,6 +1347,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [FRBNY-TimeSeriesAnalysis/Nowcasting](https://github.com/FRBNY-TimeSeriesAnalysis/Nowcasting) - Nowcasting
 * [XiaojianDing/TCBB-SIMKF](https://github.com/XiaojianDing/TCBB-SIMKF) - Code of "Survival-Informed Multi-Omics Kernel Fusion for Cancer Subtyping"
 * [ahojnnes/local-feature-evaluation](https://github.com/ahojnnes/local-feature-evaluation) - Comparative Evaluation of Hand-Crafted and Learned Local Features
+* [matlab-deep-learning/llms-with-matlab](https://github.com/matlab-deep-learning/llms-with-matlab) - Connect MATLAB to LLM APIs, including OpenAI® Chat Completions, Azure® OpenAI Services, and Ollama™
 * [tyshiwo/DRRN_CVPR17](https://github.com/tyshiwo/DRRN_CVPR17) - Code for our CVPR'17 paper "Image Super-Resolution via Deep Recursive Residual Network"
 * [yangyan92/Deep-ADMM-Net](https://github.com/yangyan92/Deep-ADMM-Net)
 * [InverseTampere/TreeQSM](https://github.com/InverseTampere/TreeQSM) - Quantitative Structure Models of Single Trees from Laser Scanner Data
@@ -1573,6 +1461,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [yuxng/YCB_Video_toolbox](https://github.com/yuxng/YCB_Video_toolbox) - Toolbox for the YCB-Video dataset
 * [123kevin456/OFDM-](https://github.com/123kevin456/OFDM-) - OFDM channel estimation and equalization
 * [liuyuisanai/coco_loss](https://github.com/liuyuisanai/coco_loss) - Implement for ``Learning Deep Features via Congenerous Cosine Loss for Person Recognition''
+* [matlab/agent-skills-playground](https://github.com/matlab/agent-skills-playground) - A sandbox for prototyping and demonstrating Agent Skills for MATLAB and Simulink work.
 * [Cloud-CV/object-proposals](https://github.com/Cloud-CV/object-proposals) - Repository containing wrapper to obtain various object proposals easily
 * [dynamicslab/SINDy-PI](https://github.com/dynamicslab/SINDy-PI) - SINDy-PI: A Robust Algorithm for Parallel Implicit Sparse Identification of Nonlinear Dynamics
 * [fumin/pencil](https://github.com/fumin/pencil) - implementation of http://www.cse.cuhk.edu.hk/~leojia/projects/pencilsketch/npar12_pencil.pdf
@@ -1669,8 +1558,8 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [verivital/nnv](https://github.com/verivital/nnv) - Neural Network Verification Software Tool https://www.verivital.com Documentation:
 * [european-central-bank/BEAR-toolbox](https://github.com/european-central-bank/BEAR-toolbox) - The Bayesian Estimation, Analysis and Regression toolbox (BEAR) is a comprehensive (Bayesian Panel) VAR toolbox for forecasting and policy analysis.
 * [HeLiangHIT/time_frequency](https://github.com/HeLiangHIT/time_frequency) - 时频分析 + 时变阶分数傅立叶变换普 + 时变滤波 相关的毕业设计课题全部代码和论文+PPT，供各位通信、电子信息工程等相关学弟学妹参考。
-* [xiaoyuyang0901/Simulation-platform](https://github.com/xiaoyuyang0901/Simulation-platform) - Simulation platform for autonomous vehicle motion planning and control
 * [luochang212/BUPT-ICS-Courseware](https://github.com/luochang212/BUPT-ICS-Courseware) - 北京邮电大学 理学院 数学系 信息与计算科学专业 课件
+* [xiaoyuyang0901/Simulation-platform](https://github.com/xiaoyuyang0901/Simulation-platform) - Simulation platform for autonomous vehicle motion planning and control
 * [MartinBraquet/task-allocation-auctions](https://github.com/MartinBraquet/task-allocation-auctions) - Dynamic decentralized task allocation algorithms for multi-agent systems using auctions
 * [simulink/skills](https://github.com/simulink/skills) - A collection of skills for AI agents by Guy on Simulink.
 * [WilliamFun/UAV_swarm_3d_simulation](https://github.com/WilliamFun/UAV_swarm_3d_simulation) - Simulation of coordinated formation control of UAV based on leader-follower and artificial potential
@@ -1804,6 +1693,7 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [DanielMartensson/Adaptive-Control](https://github.com/DanielMartensson/Adaptive-Control) - Adaptive control methods developed by Karl Johan Åström and Björn Wittenmark from the 70-80's for industrial use
 * [HongtengXu/Hawkes-Process-Toolkit](https://github.com/HongtengXu/Hawkes-Process-Toolkit) - A toolbox of Hawkes processes
 * [HuiZeng/BIQA_Toolbox](https://github.com/HuiZeng/BIQA_Toolbox) - A benchmark implementation of representative deep BIQA models
+* [lmendo/MATL](https://github.com/lmendo/MATL) - A programming language based on MATLAB and suitable for code golfing
 * [Rc-W024/SAR_Ship_detection_CFAR](https://github.com/Rc-W024/SAR_Ship_detection_CFAR) - 🔥🔥 🛰️ Official repository of thesis/paper on improved two-parameter CFAR algorithm based on Rayleigh distribution and Mathematical Morphology for SAR ship detection. 🔥🔥
 * [Sable/mcbench-benchmarks](https://github.com/Sable/mcbench-benchmarks) - Repo containing a copy of mcbench benchmarks
 * [Spritea/AEC](https://github.com/Spritea/AEC) - Acoustic Echo Cancellation with LMS/RLS (基于LMS/RLS的自适应回声抵消)
@@ -1906,6 +1796,32 @@ A curated list of awesome Matlab frameworks, libraries and software.
 * [TechnologyAiGroup/pufC2D2](https://github.com/TechnologyAiGroup/pufC2D2)
 * [jluttine/matlab](https://github.com/jluttine/matlab) - A collection of MATLAB scripts
 * [jaderberg/python-matlab-bridge](https://github.com/jaderberg/python-matlab-bridge) - A simple interface to allow Python to call MATLAB functions.
+* [JAAdrian/MatlabProgressBar](https://github.com/JAAdrian/MatlabProgressBar) - This MATLAB class provides a smart progress bar like tqdm in the command window and is optimized for progress information in simple iterations or large frameworks with full support of parallel parfor loops provided by the MATLAB Parallel Computing Toolbox.
+* [mathworks/ci-configuration-examples](https://github.com/mathworks/ci-configuration-examples) - This repository makes it easy to run your MATLAB tests on some of the most common CI platforms. The configuration files take care of setting up MATLAB and automatically executing your MATLAB tests.
+* [mobeets/mpm](https://github.com/mobeets/mpm) - Simple Matlab package management inspired by pip
+* [analogdevicesinc/MathWorks_tools](https://github.com/analogdevicesinc/MathWorks_tools) - Scripts and tools created by ADI to be used with MATLAB and Simulink with ADI products *(archived)*
+* [manur/MATLAB-git](https://github.com/manur/MATLAB-git) - A thin MATLAB wrapper for the Git source control system
+* [Tridu33/interesting_Matlab](https://github.com/Tridu33/interesting_Matlab) - 只搜集好玩的Matlab代码，好的资源，应该引向互联网更多开放自由开源的资源，而不是流量闭环
+* [ebranlard/matlab2fortran](https://github.com/ebranlard/matlab2fortran) - Performs some simple conversions from matlab code to fortran
+* [sinaebrahimi/task-offloading](https://github.com/sinaebrahimi/task-offloading) - MATLAB code for the simulation of our paper entitled "Energy-Efficient Task Offloading Under E2E Latency Constraints"
+* [eliduenisch/latexTable](https://github.com/eliduenisch/latexTable) - This MATLAB function converts matrices, cells or tables from MATLAB to LaTeX table code.
 * [LanMai/OpenSIM](https://github.com/LanMai/OpenSIM) - OpenSIM matlab code
+* [softwarespartan/IB4m](https://github.com/softwarespartan/IB4m) - Interactive Brokers API for Matlab
+* [matlab/terminal-in-matlab](https://github.com/matlab/terminal-in-matlab) - Access system terminal from MATLAB
+* [MOxUnit/MOxUnit](https://github.com/MOxUnit/MOxUnit) - An xUnit framework for Matlab and GNU Octave
+* [Lenskiy/Yahoo-Quandl-Market-Data-Donwloader](https://github.com/Lenskiy/Yahoo-Quandl-Market-Data-Donwloader) - Matlab functions for market data downloading
+* [quandl/Matlab](https://github.com/quandl/Matlab) - Quandl's Matlab module *(archived)*
+* [descosmos/ChaoticImageEncryption](https://github.com/descosmos/ChaoticImageEncryption) - An image encryption algorithm based on 6-dimensional hyper chaotic system and DNA encoding.
+* [minoue-xx/livescript2markdown](https://github.com/minoue-xx/livescript2markdown) - MATLAB's live scripts to markdown. The provided function converts your latex (generated from a live script) to markdown so that it could easily produce README.md with MATLAB code, equations, and figures.
+* [Accla/d4m](https://github.com/Accla/d4m) - Dynamic Distributed Dimensional Data Model
 * [ron1818/PhD_code](https://github.com/ron1818/PhD_code) - r and matlab code, datasets, published papers for my phd study 2011-2015
+* [Patrick9313/Digital-Image-Processing](https://github.com/Patrick9313/Digital-Image-Processing) - 基于MATLAB的图像加解密及传输仿真
+* [samhooke/Steganography](https://github.com/samhooke/Steganography) - Image & video steganography in Matlab
+* [optimizers/logging4matlab](https://github.com/optimizers/logging4matlab) - Simple Logging Module for Matlab
+* [datajoint/datajoint-matlab](https://github.com/datajoint/datajoint-matlab) - Relational data pipelines for the science lab
+* [psexton/matlab-xunit](https://github.com/psexton/matlab-xunit) - xUnit for Matlab with JUnit-compatible XML output
+* [simgunz/doxymatlab](https://github.com/simgunz/doxymatlab) - Doxygen parser for MATLAB. Extracts automatically comments from your Matlab .m files using Doxygen to generate the documentation.
+* [plok6325/Parallel-Get](https://github.com/plok6325/Parallel-Get) - a toolbox to get CHN stock data for matlab
+* [Charleswyt/audio_steganalysis_ml](https://github.com/Charleswyt/audio_steganalysis_ml) - Audio steganalysis based on traditional handcrafted features design.
 * [dmarienko/Matlab](https://github.com/dmarienko/Matlab) - Some usefull matlab scripts
+* [FacePlusPlus/facepp-matlab-sdk](https://github.com/FacePlusPlus/facepp-matlab-sdk) - Matlab SDK for Face++ V2 API
