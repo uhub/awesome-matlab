@@ -1801,6 +1801,7 @@ A curated list of awesome MATLAB frameworks, libraries and software.
 * [jaderberg/python-matlab-bridge](https://github.com/jaderberg/python-matlab-bridge) - A simple interface to allow Python to call MATLAB functions.
 * [mathworks/ci-configuration-examples](https://github.com/mathworks/ci-configuration-examples) - This repository makes it easy to run your MATLAB tests on some of the most common CI platforms. The configuration files take care of setting up MATLAB and automatically executing your MATLAB tests.
 * [mobeets/mpm](https://github.com/mobeets/mpm) - Simple Matlab package management inspired by pip
+* [cmccomb/matlab-use](https://github.com/cmccomb/matlab-use) - Load MATLAB functions from local files or HTTPS URLs with optional SHA-256 pinning, dependency manifests, and a verified local cache.
 * [JAAdrian/MatlabProgressBar](https://github.com/JAAdrian/MatlabProgressBar) - This MATLAB class provides a smart progress bar like tqdm in the command window and is optimized for progress information in simple iterations or large frameworks with full support of parallel parfor loops provided by the MATLAB Parallel Computing Toolbox.
 * [analogdevicesinc/MathWorks_tools](https://github.com/analogdevicesinc/MathWorks_tools) - Scripts and tools created by ADI to be used with MATLAB and Simulink with ADI products *(archived)*
 * [Tridu33/interesting_Matlab](https://github.com/Tridu33/interesting_Matlab) - 只搜集好玩的Matlab代码，好的资源，应该引向互联网更多开放自由开源的资源，而不是流量闭环
